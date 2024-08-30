@@ -1,6 +1,7 @@
 ---
 title: Automation
-layout: default
+layout: home
+nav_order: 2
 ---
 
 Automation doc

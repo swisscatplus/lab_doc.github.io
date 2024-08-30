@@ -1,6 +1,7 @@
 ---
 title: Synthesis
-layout: default
+layout: home
+nav_order: 6
 ---
 
 Synthesis doc

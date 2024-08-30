@@ -1,6 +1,7 @@
 ---
-title: Organisation
-layout: default
+title: Organi
+layout: home
+nav_order: 5
 ---
 
 Organisation doc

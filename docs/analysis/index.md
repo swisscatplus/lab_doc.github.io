@@ -1,6 +1,8 @@
 ---
 title: Analysis documentation
-layout: default
+layout: home
+nav_order: 3
+has_children: true
 ---
 
 Doc analysis

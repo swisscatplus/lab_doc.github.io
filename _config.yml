@@ -4,8 +4,6 @@ theme: just-the-docs
 
 logo: "/assets/images/logo.png"
 
-url: https://just-the-docs.github.io
-
 aux_links:
   Github Swiss CAT+: https://github.com/swisscatplus
 

@@ -1,7 +1,6 @@
 ---
-title: IT
+title: Organisation
 layout: default
-nav_order: 6
 ---
 
-IT doc
+Organisation doc

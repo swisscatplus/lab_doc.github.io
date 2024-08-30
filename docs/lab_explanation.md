@@ -1,7 +1,6 @@
 ---
 title: Laboratory explanation
-layout: default
-nav_order: 2
+layout: home
 ---
 
 Here is the content

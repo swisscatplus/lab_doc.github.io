@@ -1,7 +1,7 @@
 ---
 title: Analysis documentation
 layout: default
-nav_order: 1
+nav_order: 4
 ---
 
 Doc analysis

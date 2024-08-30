@@ -1,5 +1,5 @@
 ---
-title: Documentation config
+title: Laboratory explanation
 layout: default
 nav_order: 2
 ---

@@ -8,7 +8,6 @@ Here is the content
 
 here is the image of the lab :
 
-![](lab.jpg)
-
+![](../assets/images/lab.jpg)
 
 YOUOUOUOU

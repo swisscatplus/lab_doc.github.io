@@ -5,6 +5,6 @@ parent: Agilent
 grand_parent: Analysis documentation
 ---
 
-This is **LC** docuemtantion
+This is **LC** documentation
 
 

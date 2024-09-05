@@ -5,12 +5,12 @@ This project is designed to contain all relevant information for the SwissCat+ p
 
 ## WARNINGS
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub]
+It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub
 
 
 ## Not tried yet --  Building and previewing your site locally
 
-Assuming [Jekyll] and [Bundler] are installed on your computer:
+Assuming Jekyll and Bundler are installed on your computer:
 
 1.  Change your working directory to the root directory of your site.
 2.  Run `bundle install`.

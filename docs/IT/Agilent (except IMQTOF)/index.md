@@ -6,7 +6,9 @@ parent: IT
 
 This is the  Agilent(except IMQTOF) doc for IT
 
-We use the Agilent Sample Scheduler to send commands to instruments 
+We use the Agilent Sample Scheduler to send commands to instruments.
+Installed on srv3. 
+Contains also the DB. 
 
 Instruments : LC, SFC, LC Prep, GC MS
 AIC (lien entre l'instrument et le réseau) : 5

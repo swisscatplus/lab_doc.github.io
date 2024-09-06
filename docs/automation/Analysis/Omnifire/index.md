@@ -1,7 +1,7 @@
 ---
 title: Omnifire
 layout: default
-parent: Automation
+parent: Anylisis
 ---
 
 This is the Omnifire automated station documentation.

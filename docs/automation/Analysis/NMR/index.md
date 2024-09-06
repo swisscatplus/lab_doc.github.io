@@ -1,7 +1,7 @@
 ---
 title: NMR
 layout: default
-parent: Automation
+parent: Anylisis
 ---
 
 This is the NMR automated station documentation.

@@ -1,7 +1,7 @@
 ---
 title: Bravo
 layout: default
-parent: Automation
+parent: Anylisis
 ---
 
 This is the Bravo automated station documentation.

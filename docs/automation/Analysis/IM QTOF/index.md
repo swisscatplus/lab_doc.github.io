@@ -1,7 +1,7 @@
 ---
 title: IM QTOF
 layout: default
-parent: Automation
+parent: Anylisis
 ---
 
 This is the IM QTOF automated station documentation.

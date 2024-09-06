@@ -10,6 +10,6 @@ The Omnifire contains multiple instruments:  Bruker Invenio FT-IR Spectrometer, 
 
 The Omnifire control is using an implementation of GLAS.
 
-GLAS documentation is available here : [GLAS](https://github.com/swisscatplus/glas){: .btn .btn-green }
+GLAS documentation is available here : [GLAS](https://github.com/swisscatplus/glas){: .btn .btn-blue }
 
-The repository for the implementation of the Omnifire is available here : [OMNIFIRE](https://github.com/swisscatplus/Omnifire){: .btn .btn-green }
+The repository for the implementation of the Omnifire is available here : [OMNIFIRE](https://github.com/swisscatplus/Omnifire){: .btn .btn-blue }

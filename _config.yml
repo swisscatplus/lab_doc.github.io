@@ -37,4 +37,20 @@ search:
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title: Highlight
+    color: yellow
+  note:
+    title: Note
+    color: purple
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
 

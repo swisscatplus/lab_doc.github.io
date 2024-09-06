@@ -2,6 +2,7 @@
 title: HPLC Prep
 layout: default
 parent: Analytics
+grand_parent: Automation
 ---
 
 This is the HPLC Prep automated station documentation.

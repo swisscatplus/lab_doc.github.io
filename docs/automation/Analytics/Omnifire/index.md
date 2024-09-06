@@ -2,6 +2,7 @@
 title: Omnifire
 layout: default
 parent: Analytics
+grand_parent: Automation
 ---
 
 This is the Omnifire automated station documentation.

@@ -2,6 +2,7 @@
 title: IM QTOF
 layout: default
 parent: Analytics
+grand_parent: Automation
 ---
 
 This is the IM QTOF automated station documentation.

@@ -1,5 +1,5 @@
 ---
-title:  Robot Scheduler
+title: Robot Scheduler
 layout: default
 parent: Automation
 ---

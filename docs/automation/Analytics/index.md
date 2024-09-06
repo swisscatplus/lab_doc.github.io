@@ -1,6 +1,6 @@
 ---
 title: Analytics
-layout: home
+layout: default
 parent: Automation
 has_children: true
 ---

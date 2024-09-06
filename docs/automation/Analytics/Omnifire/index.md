@@ -1,7 +1,7 @@
 ---
 title: Omnifire
 layout: default
-parent: Anylisis
+parent: Analytics
 ---
 
 This is the Omnifire automated station documentation.

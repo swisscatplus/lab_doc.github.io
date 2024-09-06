@@ -1,7 +1,7 @@
 ---
 title: HPLC Prep
 layout: default
-parent: Anylisis
+parent: Analytics
 ---
 
 This is the HPLC Prep automated station documentation.

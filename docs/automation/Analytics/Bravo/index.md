@@ -1,7 +1,7 @@
 ---
 title: Bravo
 layout: default
-parent: Anylisis
+parent: Analytics
 ---
 
 This is the Bravo automated station documentation.

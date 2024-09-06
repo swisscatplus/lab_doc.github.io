@@ -1,7 +1,7 @@
 ---
 title: Robot Scheduler
 layout: default
-parent: Anylisis
+parent: Analytics
 ---
 
 This is the robot scheduler documentation.

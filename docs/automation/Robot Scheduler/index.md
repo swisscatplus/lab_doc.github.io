@@ -1,8 +1,7 @@
 ---
 title: Robot Scheduler
 layout: default
-parent: Analytics
-grand_parent: Automation
+parent: Automation
 ---
 
 This is the robot scheduler documentation.

@@ -12,3 +12,4 @@ Arksuite has its own API. The documentation for this API is available on the Ark
 
 Arksuite is deployed on srv5.
 
+Autosuite programs and definitions are defined here : [Autosuite programs](https://github.com/swisscatplus/Chemspeed_Autosuite_programs) {: .btn .btn-blue }

@@ -7,6 +7,7 @@ parent: IT
 This is the  Agilent(except IMQTOF) doc for IT
 
 We use the Agilent Sample Scheduler to send commands to instruments.
+The API to send commands to instruments are described in the repository : [API Agilent](https://github.com/swisscatplus/agilentapi){: .btn .btn-blue }
 Installed on srv3. 
 
 {: .warning }

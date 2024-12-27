@@ -4,4 +4,5 @@ layout: default
 parent: IT
 ---
 
-This is the DEC-STORMS doc for IT
+The DEC-STORMS project contains mutliple repositories.
+

@@ -4,7 +4,8 @@ layout: default
 parent: IT
 ---
 
-This is the Inventory doc for IT
+Swiss CAT+ has a global inventory system. 
 
-Available here : [Inventory](http://swisscatsrv5:8123/fr/Main/Login?targetAction=Detail&targetController=Location&targetId=8) {: .btn .btn-blue }
-SolAsset Solution bought from Solid.
+We stick label onto each bottle and put it inside the system. The system is available here:
+
+Available here : [Inventory](http://swisscatsrv5:8123/fr/Main/Login?targetAction=Detail&targetController=Location&targetId=8){: .btn .btn-blue }

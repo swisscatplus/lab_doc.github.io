@@ -17,3 +17,5 @@ The database used and the algorithm with its environment is defined in the NextC
 The code is commented to reflect its behavior
 
 STORMS project contains multiple algorithms : 
+
+

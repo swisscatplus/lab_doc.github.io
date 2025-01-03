@@ -23,4 +23,4 @@ The complete sequence of analysis is performed on the same aliquot and the sampl
 {: .important }
 > The Omnifire control is using an implementation of GLAS.
 
-The repository for the implementation of the Omnifire is available here : [OMNIFIRE](https://github.com/swisscatplus/Omnifire){: .btn .btn-blue }
+The repository for the implementation of the Omnifire is available here : <span class="fs-2">[OMNIFIRE](https://github.com/swisscatplus/Omnifire){: .btn .btn-blue }</span>

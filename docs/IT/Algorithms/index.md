@@ -12,10 +12,7 @@ Multiple algorithms exists within SwissCat+ :
 
 The repository contains the documentation to implement it yourself.
 
-The database used and the algorithm with its environment is defined in the NextCloud at this location : 
+{: .important }
+> The database used and the algorithm with its environment is defined in the NextCloud at this location : 
 
-The code is commented to reflect its behavior
-
-STORMS project contains multiple algorithms : 
-
-
+The code is commented to reflect its behavior.

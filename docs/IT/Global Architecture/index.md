@@ -8,10 +8,8 @@ This is the Global Architecture doc for IT.
 
 ![](..../assets/images/it_structure.png)
 
-
 The full architecture is pyramidal.
-At the top is the HCI (IN COLLABORATION WITH MESTRELAB RESEARCH), which converts the chemist input into workflows for samples.
-The HCI includes specific features for our laboratory. Digital laboratories with high degree of automation require specific interfaces in order to capture experimental data and metadata in a structured form. Researchers should be able to contextualize as much as possible their requests and orchestrate their hardware according to their desired plan. Such interfaces do not exist as these tasks were at best done by populating ELN which are not suited for efficient database creation and limits greatly the exploitation of data using machine learning algorithms. To correct this, we develop a Human Computer Interface (HCI) designed to convert chemist inputs into scheduler and database language.
+At the top is the HCI (IN COLLABORATION WITH MESTRELAB RESEARCH), which converts the chemist input into workflows for samples. The HCI includes specific features for our laboratory. Researchers should be able to contextualize as much as possible their requests and orchestrate their hardware according to their desired plan. We develop a Human Computer Interface (HCI) designed to convert chemist inputs into scheduler and database language.
 
 The documents are here : [Nextcloud/SwissCat-share/1_Projects/P9 - HCI](https://swisscatsrv1.epfl.ch/index.php/apps/files/files/101533?dir=/SwissCat-share/1_Projects/P9%20-%20HCI){: .btn .btn-blue }
 

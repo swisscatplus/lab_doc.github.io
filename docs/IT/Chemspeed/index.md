@@ -10,7 +10,8 @@ To control the instruments, we use Autosuite locally and Arksuite to pilot the d
 
 Arksuite has its own API. The documentation for this API is available on the Arksuite web UI in itself.
 
-Arksuite is deployed on srv5.
+{: .important }
+> Arksuite is deployed on srv5.
 
 Autosuite programs and definitions are defined here : [Autosuite programs](https://github.com/swisscatplus/Chemspeed_Autosuite_programs){: .btn .btn-blue }
 

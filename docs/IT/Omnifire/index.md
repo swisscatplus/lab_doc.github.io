@@ -20,6 +20,7 @@ We designed and are currently building an integrally automated platform that wil
 
 The complete sequence of analysis is performed on the same aliquot and the samples are prepared for NMR analysis without any human intervention.
 
-The Omnifire control is using an implementation of GLAS.
+{: .important }
+> The Omnifire control is using an implementation of GLAS.
 
 The repository for the implementation of the Omnifire is available here : [OMNIFIRE](https://github.com/swisscatplus/Omnifire){: .btn .btn-blue }

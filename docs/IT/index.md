@@ -6,4 +6,4 @@ has_children: true
 ---
 
 IT documentation for the laboratory. Explain both the general structure and the different parts with dedicated repositories. The main organisation is available here :
-<span class="fs-2">[Swisscat organisation](https://github.com/swisscatplus){: .btn .btn-red }</span>
+<span class="fs-2">[Swisscat organisation](https://github.com/swisscatplus){: .btn .btn-purple }</span>

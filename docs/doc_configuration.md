@@ -5,7 +5,7 @@ nav_order: 7
 ---
 
 {: .important }
-> If you want to modify this documentation go here : <span class="fs-2">[Documentation](https://github.com/swisscatplus/lab_doc.github.io){: .btn .btn-red }</span>
+> If you want to modify this documentation go here : <span class="fs-2">[Documentation](https://github.com/swisscatplus/lab_doc.github.io){: .btn .btn-purple }</span>
 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.

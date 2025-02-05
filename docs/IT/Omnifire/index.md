@@ -23,8 +23,8 @@ The complete sequence of analysis is performed on the same aliquot and the sampl
 {: .important }
 > The Omnifire control is using an implementation of GLAS.
 
-The repository for the implementation of the Omnifire is available here : <span class="fs-2">[OMNIFIRE](https://github.com/swisscatplus/Omnifire){: .btn .btn-blue }</span>
+The repository for the implementation of the Omnifire is available here : <span class="fs-2">[OMNIFIRE](https://github.com/swisscatplus/Omnifire){: .btn .btn-purple }</span>
 
-The Omnifire web client is available here : <span class="fs-2">[OMNIFIRE Web client](https://github.com/swisscatplus/omnifire-web-client){: .btn .btn-red }</span>
+The Omnifire web client is available here : <span class="fs-2">[OMNIFIRE Web client](https://github.com/swisscatplus/omnifire-web-client){: .btn .btn-purple }</span>
 
-The Omnifire pump control is available here : <span class="fs-2">[OMNIFIRE Pump control](https://github.com/swisscatplus/Omni_pumps_API){: .btn .btn-green }</span>
+The Omnifire pump control is available here : <span class="fs-2">[OMNIFIRE Pump control](https://github.com/swisscatplus/Omni_pumps_API){: .btn .btn-purple }</span>

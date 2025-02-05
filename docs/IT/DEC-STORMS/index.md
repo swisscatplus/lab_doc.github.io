@@ -12,4 +12,4 @@ For recombinaison, the project is available here :
 
 The database test for the project is available here:
 
-<span class="fs-2">[Database test](https://github.com/swisscatplus/ChaosMetric){: .btn .btn-green }</span>
+<span class="fs-2">[Database test](https://github.com/swisscatplus/ChaosMetric){: .btn .btn-purple }</span>

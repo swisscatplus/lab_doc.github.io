@@ -13,9 +13,9 @@ Arksuite has its own API. The documentation for this API is available on the Ark
 {: .important }
 > Arksuite is deployed on srv5.
 
-Autosuite programs and definitions are defined here : <span class="fs-2">[Autosuite programs](https://github.com/swisscatplus/Chemspeed_Autosuite_programs){: .btn .btn-green }</span>
+Autosuite programs and definitions are defined here : <span class="fs-2">[Autosuite programs](https://github.com/swisscatplus/Chemspeed_Autosuite_programs){: .btn .btn-purple }</span>
 
 Here is also the algorithm to pilot the pipettes between the glove boxes :
 
-<span class="fs-2">[Pipeting program](https://github.com/swisscatplus/techvolver){: .btn .btn-green }</span>
+<span class="fs-2">[Pipeting program](https://github.com/swisscatplus/techvolver){: .btn .btn-purple }</span>
 

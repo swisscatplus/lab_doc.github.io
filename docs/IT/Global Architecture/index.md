@@ -6,7 +6,7 @@ parent: IT
 
 This is the Global Architecture doc for IT.
 
-![](.../assets/images/it_structure.png)
+![](./../../../assets/images/it_structure.png)
 
 The full architecture is pyramidal.
 At the top is the HCI, which converts the chemist input into workflows for samples. The HCI includes specific features for our laboratory. Researchers should be able to contextualize as much as possible their requests and orchestrate their hardware according to their desired plan. We develop a Human Computer Interface (HCI) designed to convert chemist inputs into scheduler and database language.

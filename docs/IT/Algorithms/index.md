@@ -12,7 +12,8 @@ Multiple algorithms exists within SwissCat+ :
 
 The repository contains the documentation to implement it yourself.
 
-The database used and the algorithm with its environment is defined in the NextCloud at this location : <span class="fs-2">[Share Link](https://swisscatsrv1.epfl.ch/index.php/apps/files/files/485854?dir=/SwissCat-share/1_Projects/P30%20-%20Automated%20LC-DAD-MS%20Analysis)</span>
+{: .important }
+> The database used and the algorithm with its environment is defined in the NextCloud at this location : <span class="fs-2">[Swisscat share Link](https://swisscatsrv1.epfl.ch/index.php/apps/files/files/485854?dir=/SwissCat-share/1_Projects/P30%20-%20Automated%20LC-DAD-MS%20Analysis){: .btn .btn-purple }</span>
 
 The code is commented to reflect its behavior.
 

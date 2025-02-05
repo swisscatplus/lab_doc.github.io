@@ -8,7 +8,7 @@ The DEC-STORMS project contains multiple repositories.
 
 For recombinaison, the project is available here :
 
-<span class="fs-2">[Recombinaison algorithm](https://github.com/swisscatplus/Recombinaison){: .btn .btn-red }</span>
+<span class="fs-2">[Recombinaison algorithm](https://github.com/swisscatplus/Recombinaison){: .btn .btn-purple }</span>
 
 The database test for the project is available here:
 

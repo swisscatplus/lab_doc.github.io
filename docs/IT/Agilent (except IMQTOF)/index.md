@@ -18,8 +18,9 @@ The API to send commands to instruments are described in the repository : <span 
 
 Instruments : LC, SFC, LC Prep, GC MS
 
-Each instrument has an AIC (link between the instrument the network) : 5
-Clients (to access the OpenLAb architecture) : 3 within the laboratory
+Each instrument has an AIC (link between the instrument the network) -> 5 of them
+
+Clients (to access the OpenLAb architecture) -> 3 of them within the laboratory
 
 For the central zone, one computer is used as an AIC for the GC and controls other instruments via VWORKS
 

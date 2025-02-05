@@ -4,7 +4,8 @@ layout: default
 parent: IT
 ---
 
-This is the SFC-IMQTOF doc for IT
+This is the SFC-IMQTOF doc for IT.
 
-The repository to analyse the results is there :
- 
+The repository to analyse the results and pilot the system is there :
+
+<span class="fs-2">[Github repo IMQTOF](https://github.com/swisscatplus/IMQTOF_Data_Processing){: .btn .btn-green }</span>

@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/swisscatplus/">
-    <img src="./images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">SwissCAT+ Documentation</h1>

@@ -11,7 +11,7 @@ In order to make the NMR spectral characterization integrated in the global anal
 {: .important }
 > The SampleJet is controlled via its own library and the experiments are sent through Ibruk and its corresponding library. Ibruk adds the experiment to its queue and launch them one after another.
 
-The repository for the NMR API is accessible here : <span class="fs-2">[GIT AUTOMATIC NMR](https://github.com/swisscatplus/AutomaticNMR){: .btn .btn-blue }</span>
+The repository for the NMR API is accessible here : <span class="fs-2">[GIT AUTOMATIC NMR](https://github.com/swisscatplus/AutomaticNMR){: .btn .btn-green }</span>
 
 It contains the API and control application to access the 2 libraries developed to control the NMR.
 

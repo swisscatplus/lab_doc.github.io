@@ -12,3 +12,5 @@ Then to pilot both glove boxes, we can use the Arksuite software.
 Other glove boxes are handled by the STORMS project. 
 
 We also have a pipetting system developed in house.
+
+Each control section is defined in the IT section.

@@ -5,9 +5,10 @@ nav_order: 1
 ---
 
 This is the Swiss CAT+ laboratory documentation. 
-You will find here anything you need to start your job here !
 
-You can already have a brief overview of the lab by looking at this website : [Swiss CAT+ website](https://www.epfl.ch/research/facilities/swisscat/){: .btn .btn-blue }
+You will find here anything you need to start your adventure here !
+
+You can already have a brief overview of the lab by looking at this website : <span class="fs-2">[Swiss CAT+ website](https://www.epfl.ch/research/facilities/swisscat/){: .btn .btn-purple }</span>
 
 You can find these different sections :
 
@@ -20,7 +21,7 @@ You can find these different sections :
 
 The laboratory is divided into 2 main sections : the synthesis section and the analysis section.
 
-Here is ab image of the lab :
+Here is an image of the lab :
 
 ![](./assets/images/lab.jpg)
 

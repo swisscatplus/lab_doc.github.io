@@ -8,7 +8,7 @@ This is the  Agilent (except IMQTOF) doc for IT.
 
 We use the Agilent Sample Scheduler to send commands to instruments.
 
-The API to send commands to instruments are described in the repository : [API Agilent](https://github.com/swisscatplus/agilentapi){: .btn .btn-blue }
+The API to send commands to instruments are described in the repository : <span class="fs-2">[API Agilent](https://github.com/swisscatplus/agilentapi){: .btn .btn-blue }</span>
 
 {: .important }
 > Installed on srv3. 
@@ -23,5 +23,5 @@ Clients (to access the OpenLAb architecture) : 3 within the laboratory
 
 For the central zone, one computer is used as an AIC for the GC and controls other instruments via VWORKS
 
-We export the results in ASM format when ever possible: [ASM Modeling](https://www.allotrope.org/introduction-to-allotrope-simple-model){: .btn .btn-blue }
+We export the results in ASM format when ever possible: <span class="fs-2">[ASM Modeling](https://www.allotrope.org/introduction-to-allotrope-simple-model){: .btn .btn-blue }</span>
 

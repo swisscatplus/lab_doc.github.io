@@ -20,6 +20,7 @@ We mainly have these different teams :
     - Henryk Zolnowski
 - Team IT :
     - Jean-Charles, IT Specialist and Data Manager
+    - Alice
 
 We use several tools that you can download or ask to be invited:
 

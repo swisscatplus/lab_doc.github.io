@@ -15,17 +15,13 @@ Our lab is organized into specialized teams, each focusing on a specific domain 
 
 ---
 
-### Automation
-- **Edy**, Automation Engineer
-- **Maël**, Automation Apprentice 
-- **Jasper**, Robotics Scientist
-- **Bastien**, Automation Engineer
+### Analytical
+- **Van Thanh**, Chemistry Scientist
+- **Célia**, Analysis Lab Technician
+- **Irina**, Lab Technician Apprentice
+- **Clovis**, Lab Technician
 
----
 
-### IT
-- **Jean-Charles**, IT Specialist and Data Manager
-- **Alice**, Chemistry Scientist
 
 ---
 
@@ -35,10 +31,19 @@ Our lab is organized into specialized teams, each focusing on a specific domain 
 
 ---
 
-### Analytical
-- **Van Thanh**, Chemistry Scientist
-- **Célia**, Analysis Lab Technician
-- **Clovis**, Lab Technicien
+### IT
+
+- **Jean-Charles**, IT Specialist and Data Manager
+- **Alice**, Chemistry Scientist
+
+---
+
+### Automation
+- **Edy**, Automation Engineer
+- **Maël**, Automation Apprentice 
+- **Jasper**, Robotics Scientist
+- **Bastien**, Automation Engineer
+
 ---
 
 ### STORMS
@@ -47,20 +52,20 @@ Our lab is organized into specialized teams, each focusing on a specific domain 
 
 ---
 
-We use several tools that you can download or ask to be invited:
+## Tools, Software, and Resource Access
 
-- Slack: A team communication platform for real-time messaging, file sharing, and collaboration.
-- Joplin: An open-source note-taking app for organizing and syncing notes and to-do lists across devices.
-- Nextcloud: A self-hosted cloud storage solution for file sharing, collaboration, and data management.
-- Github:  <span class="fs-2">
-[Github](https://github.com/){: .btn .btn-purple } 
-</span>  You'll surely need a Github account. Please register on the website if you don't have an account yet. Then, you can install Github Desktop here : <span class="fs-2">
-[Github Desktop](https://desktop.github.com/download/){: .btn .btn-purple } 
-</span> Github is based on the Git technology. Here is a description of the Git functionning : <span class="fs-2"> [Git Explanation](https://www.youtube.com/watch?v=e9lnsKot_SQ){: .btn .btn-purple } </span>
-- Most of the Human resources for your job are on Sesame : <span class="fs-2">
-[Sesame](https://www.epfl.ch/campus/services/ressources/sesame/){: .btn .btn-purple }
-</span> You can put your holidays there. 
-- Trello: A visual project management tool that uses boards, lists, and cards for organizing tasks and workflows.
+Below is an overview of the main tools, software platforms, and physical resources available in the lab, along with the contact person for each.
 
-In there, you can check all your documents and put your abscences. 
+---
+
+### 🖥 Main Tools to install
+
+| Tool / Platform | Purpose                                                                                                     |
+|-----------------|-------------------------------------------------------------------------------------------------------------|
+| **Slack**       | Team communication platform for real-time messaging, file sharing, and project coordination.               |
+| **Joplin**      | Open-source note-taking and to-do list manager for organizing, syncing, and encrypting notes across devices. |
+| **Nextcloud**   | Self-hosted cloud storage platform for secure file sharing, collaboration, and centralized data management.  |
+| **GitHub**      | Version control and collaborative development platform for managing source code and tracking changes.       |
+| **Trello**      | Visual project management tool for organizing tasks, tracking progress, and managing workflows via boards.  |
+
 

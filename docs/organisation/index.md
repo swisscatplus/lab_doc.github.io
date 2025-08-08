@@ -3,33 +3,49 @@ title: Organisation
 layout: home
 nav_order: 5
 ---
+## Teams and Members
 
-We mainly have these different teams :
+Our lab is organized into specialized teams, each focusing on a specific domain of research and development. Below is an overview of each team and its members.
 
-- Team Management - Administration : 
-    - Pascal, Operational Director
-    - Heidi, Administrative Assistant
-- Team Automation :
-    - Edy, Automation Engineer
-    - Maël, Automation Apprentice 
-    - Jasper
-    - Julien
-- Team Synthesis :
-    - Stefano, Chemistry Scientist
-    - Philippe, Synthesis Lab Technician
-    - Lucas, Project Student
-    - Edward, Project Student
-- Team Analysis :
-    - Van Thanh, Chemistry Scientist
-    - Elisa, Analysis Lab Technician
-    - Célia, Chemist Apprentice
-- Team STORMS :
-    - Keyan Villat
-    - Henryk Zolnowski
-    - Gaëtan, Project Student
-- Team IT :
-    - Jean-Charles, IT Specialist and Data Manager
-    - Alice
+---
+
+### Management - Administration
+- **Pascal**, Operational Director
+- **Heidi**, Administrative Assistant
+
+---
+
+### Automation
+- **Edy**, Automation Engineer
+- **Maël**, Automation Apprentice 
+- **Jasper**, Robotics Scientist
+- **Bastien**, Automation Engineer
+
+---
+
+### IT
+- **Jean-Charles**, IT Specialist and Data Manager
+- **Alice**, Chemistry Scientist
+
+---
+
+### Synthesis
+- **Stefano**, Chemistry Scientist
+- **Sebastien**, Chemistry Scientist
+
+---
+
+### Analytical
+- **Van Thanh**, Chemistry Scientist
+- **Célia**, Analysis Lab Technician
+- **Clovis**, Lab Technicien
+---
+
+### STORMS
+- **Keyan**, Engineer
+- **Henryk**, Engineer
+
+---
 
 We use several tools that you can download or ask to be invited:
 

@@ -68,4 +68,6 @@ Below is an overview of the main tools, software platforms, and physical resourc
 | **GitHub**      | Version control and collaborative development platform for managing source code and tracking changes.       |
 | **Trello**      | Visual project management tool for organizing tasks, tracking progress, and managing workflows via boards.  |
 
+for git : https://www.youtube.com/watch?v=e9lnsKot_SQ&themeRefresh=1
+
 

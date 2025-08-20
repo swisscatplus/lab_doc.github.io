@@ -44,7 +44,7 @@ Key gloveboxes include:
   - Dispenses the correct amount of powder from capsules.  
 
 - **Synthesis Box & Chemspeed Systems**  
-  - Capsules are opened and contents transferred into two **Chemspeed automated synthesis machines**.  
+  - Capsules are opened and contents transferred into two **Chemspeed automated synthesis machines** via the Synthbox.  
   - Machines perform automated experiment execution.  
 
 For more details, see [Synthesis Area](synthesis.md).  

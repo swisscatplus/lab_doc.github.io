@@ -1,5 +1,5 @@
 ---
-title: Synthesis Area
+title: Automation Synthesis
 layout: default
 parent: Automation
 ---

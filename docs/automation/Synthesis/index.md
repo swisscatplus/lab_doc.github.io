@@ -12,8 +12,8 @@ All gloveboxes are sealed and filled with a **nitrogen atmosphere** to ensure in
 The **H-shaped structure has four external airlocks**, located at the ends of each branch of the H.  
 These airlocks provide controlled entry and exit points between the glovebox network and the outside environment, allowing the transfer of consumables, chemicals, and samples without breaking the inert atmosphere.  
 
-- **5 gloveboxes** are developed and supplied by **DEC (Dietrich Engineering Consultants S.A.)**, which integrate **gas purification systems from Jacomex**.  
-- **2 gloveboxes** are part of the **Chemspeed (Bruker) systems**, which integrate **gloveboxes and gas purification systems from MBraun**.  
+- **Five gloveboxes** are developed and supplied by **DEC (Dietrich Engineering Consultants S.A.)**, which integrate **gas purification systems from Jacomex**.  
+- **Two gloveboxes** are part of the **Chemspeed (Bruker) systems**, which integrate **gloveboxes and gas purification systems from MBraun**.  
 
 More details on the chemical synthesis operations are available in the dedicated [Synthesis documentation](../synthesis.md).  
 

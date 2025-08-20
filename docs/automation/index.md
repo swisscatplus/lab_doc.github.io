@@ -47,16 +47,39 @@ Key gloveboxes include:
   - Capsules are opened and contents transferred into two **Chemspeed automated synthesis machines**.  
   - Machines perform automated experiment execution.  
 
+For more details, see [Synthesis Area](synthesis.md).  
+
 ---
 
-## Analysis Area  
+Once samples leave synthesis through the **final airlock**, they enter the analysis area.  
+This section is designed around **five dedicated analytical stations**, connected by a fleet of small (~20 cm) mobile robots.  
 
-After synthesis, samples exit through the **final airlock** and move to the analysis area.  
+These mobile robots operate on a **transparent overhead track (2.3 m above ground)**, separated from human workflows. The track is organized into corridors linking all stations, enabling safe and autonomous sample transport.  
 
-This area is composed of **multiple analytical stations**, each equipped with:  
-- One or more **analytical instruments** (e.g., chromatographs, spectrometers).  
-- At least one **Universal Robots six-axis robotic arm** for handling samples.  
-- A **track system with mobile robots** that transport samples between stations.  
+The **five stations** currently in operation are:  
+
+1. **LC / SFC with MS and ELSD**  
+   - First screening of all samples.  
+   - Two Universal Robots (UR) arms connect three instruments.  
+
+2. **PrepFire**  
+   - Includes two Bravo liquid handlers (for concentration adjustments, evaporation, etc.), GC-MS, and a plate labeler.  
+   - Linked by a KX2 SCARA robot.  
+
+3. **OmniFire + LC-Prep**  
+   - Higher-volume LC for sample preparation.  
+   - OmniFire prepares plates for downstream stations or inserts them into UV or IR analyzers.  
+
+4. **Synthesis Exit**  
+   - Receives samples directly from the Chemspeed airlock.  
+   - Acts as the entry point to the analysis section.  
+
+5. **SFC-QToF + NMR**  
+   - High-resolution measurements for selected samples.  
+   - Two UR arms link the instruments.  
+
+For more details, see [Analysis Area](analysis.md).  
+
 
 ---
 

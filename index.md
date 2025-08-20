@@ -18,11 +18,11 @@ For additional information and institutional context, please refer to the offici
 
 The documentation is organized into the following sections:  
 
-- [Organisation of the Laboratory](/Organisation/)  
-- [Analytics](/Analytics/)  
-- [Synthesis](/Synthesis/)  
-- [IT](/IT/)  
-- [Automation](/Automation/)  
+- [Organisation of the Laboratory](/docs/Organisation/)  
+- [Analytics](/docs/Analytics/)  
+- [Synthesis](/docs/Synthesis/)  
+- [IT](/docs/IT/)  
+- [Automation](/docs/Automation/)  
 
 ---
 
@@ -30,10 +30,10 @@ The documentation is organized into the following sections:
 
 The SwissCAT+ Laboratory is divided into two principal areas:  
 
-- **[Synthesis Section](/Synthesis/)** — structured around an H-shaped arrangement of seven Glovesboxes.
+- **[Synthesis Section](/docs/Synthesis/)** — structured around an H-shaped arrangement of seven Glovesboxes.
   This section is dedicated to automated sample preparation and synthesis experiments.  
 
-- **[Analytics Section](/Analytics/)** — composed of multiple workstations, each equipped with advanced analytical instruments, including:  
+- **[Analytics Section](/docs/Analytics/)** — composed of multiple workstations, each equipped with advanced analytical instruments, including:  
   - Gas Chromatographs (GC)  
   - Liquid Chromatographs (HPLC, UHPLC)  
   - Nuclear Magnetic Resonance (NMR) spectrometers  

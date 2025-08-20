@@ -1,5 +1,5 @@
 ---
-title: Analysis documentation
+title: Analytics
 layout: home
 nav_order: 3
 has_children: true

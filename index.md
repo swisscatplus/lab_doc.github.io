@@ -4,25 +4,49 @@ layout: home
 nav_order: 1
 ---
 
-This is the Swiss CAT+ laboratory documentation. 
+# SwissCAT+ Laboratory Documentation  
 
-You will find here anything you need to start your adventure here !
+Welcome to the documentation of the SwissCAT+ Laboratory.
+This site provides essential information to help researchers and collaborators navigate the laboratory and its resources.  
 
-You can already have a brief overview of the lab by looking at this website : <span class="fs-2">[Swiss CAT+ website](https://www.epfl.ch/research/facilities/swisscat/){: .btn .btn-purple }</span>
+For additional information and institutional context, please refer to the official website:  
+<span class="fs-2">[Swiss CAT+ Website](https://www.epfl.ch/research/facilities/swisscat/){: .btn .btn-purple }</span>
 
-You can find these different sections :
+---
 
-- Automation
-- Analysis
-- IT
-- Organisation of the laboratory
-- Synthesis
-- Documentation configuration 
+## Documentation Structure  
 
-The laboratory is divided into 2 main sections : the synthesis section and the analysis section.
+The documentation is organized into the following sections:  
 
-Here is an image of the lab :
+- [Organisation of the Laboratory](/Organisation/)  
+- [Analytics](/Analytics/)  
+- [Synthesis](/Synthesis/)  
+- [IT](/IT/)  
+- [Automation](/Automation/)  
 
-![](./assets/images/lab.jpg)
+---
 
-The synthesis section encomprises of multiple glove boxes and the analysis section gathers multiple Agilent and Bruker devices. Each section is explained in depth in the relevant parts. 
+## Overview of the Laboratory  
+
+The SwissCAT+ Laboratory is divided into two principal areas:  
+
+- **[Synthesis Section](/Synthesis/)** — structured around an H-shaped arrangement of seven Glovesboxes.
+  This section is dedicated to automated sample preparation and synthesis experiments.  
+
+- **[Analytics Section](/Analytics/)** — composed of multiple workstations, each equipped with advanced analytical instruments, including:  
+  - Gas Chromatographs (GC)  
+  - Liquid Chromatographs (HPLC, UHPLC)  
+  - Nuclear Magnetic Resonance (NMR) spectrometers  
+  - Ultraviolet–Visible (UV-Vis) spectrometers  
+  - Infrared (IR) spectrometers  
+  - Mass Spectrometers (MS)  
+
+Detailed descriptions of each section are available in their respective documentation.  
+
+---
+
+## Laboratory Layout  
+
+An overview image of the laboratory is provided below:  
+
+![](./assets/images/lab.jpg)  

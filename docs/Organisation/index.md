@@ -5,7 +5,7 @@ nav_order: 5
 ---
 ## Teams and Members
 
-Our lab is organized into specialized teams, each focusing on a specific domain of research and development. Below is an overview of each team and its members.
+SwissCat+ is organized into specialized teams, each focusing on a specific domain of research and development. Below is an overview of each team and its members.
 
 ---
 

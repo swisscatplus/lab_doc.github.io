@@ -18,7 +18,7 @@ For additional information and institutional context, please refer to the offici
 
 The documentation is organized into the following sections:  
 
-- [Organisation of the Laboratory](/docs/Organisation/)  
+- [Organisation of the Laboratory](/lab-doc.github.io/docs/Organisation/)  
 - [Analytics](/docs/Analytics/)  
 - [Synthesis](/docs/Synthesis/)  
 - [IT](/docs/IT/)  

@@ -1,5 +1,5 @@
 ---
-title: Synthesis
+title: Synthesis Area
 layout: home
 nav_order: 6
 ---

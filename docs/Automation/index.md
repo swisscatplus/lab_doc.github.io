@@ -47,7 +47,7 @@ Key gloveboxes include:
   - Capsules are opened and contents transferred into two **Chemspeed automated synthesis machines** via the Synthbox.  
   - Machines perform automated experiment execution.  
 
-For more details, see [Synthesis Area](synthesis.md).  
+For more details, see [Synthesis Area](/Synthesis Area/).  
 
 ---
 

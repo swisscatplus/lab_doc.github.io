@@ -15,7 +15,7 @@ These airlocks provide controlled entry and exit points between the glovebox net
 - **Five gloveboxes** are developed and supplied by **DEC (Dietrich Engineering Consultants S.A.)**, which integrate **gas purification systems from Jacomex**.  
 - **Two gloveboxes** are part of the **Chemspeed (Bruker) systems**, which integrate **gloveboxes and gas purification systems from MBraun**.  
 
-More details on the chemical synthesis operations are available in the dedicated [ Synthesis documentation ](../synthesis/).  
+More details on the chemical synthesis operations are available in the dedicated [ Synthesis documentation ](/synthesis/).  
 
 *Image to insert here (H-shaped layout)*  
 

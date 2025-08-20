@@ -18,11 +18,11 @@ For additional information and institutional context, please refer to the offici
 
 The documentation is organized into the following sections:  
 
-- [Organisation of the Laboratory](/lab-doc.github.io/docs/Organisation/)  
-- [Analytics](/docs/Analytics/)  
-- [Synthesis](/docs/Synthesis/)  
-- [IT](/docs/IT/)  
-- [Automation](/docs/Automation/)  
+- [Organisation of the Laboratory](/lab_doc.github.io/docs/Organisation/)  
+- [Analytics](/lab_doc.github.io/docs/Analytics/)  
+- [Synthesis](/lab_doc.github.io/docs/Synthesis/)  
+- [IT](/lab_doc.github.io/docs/IT/)  
+- [Automation](./Automation/)  
 
 ---
 

@@ -3,6 +3,9 @@ title: Synthesis
 layout: home
 nav_order: 6
 ---
+The basis docs for synthesis are here :
+
+<span class="fs-2">[Doc synth](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Docs_basis){: .btn .btn-purple }</span>
 
 The synthesis sections gathers multiple glove boxes. 
 Some of them are Chemspeed glove boxes. They are controlled through the Autosuite software.

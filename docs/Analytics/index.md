@@ -7,7 +7,7 @@ has_children: true
 
 The analysis part of the laboratory includes multiples instruments from different vendors :
 
-- HPLC
+- Analytical HPLC
 - SFC
 - LC Prep
 - IM-QTOF

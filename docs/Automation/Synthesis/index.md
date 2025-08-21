@@ -19,6 +19,8 @@ More details on the chemical synthesis operations are available in the dedicated
 
 *Image to insert here (H-shaped layout)*  
 
+test
+
 ---
 
 ## Layout and Workflow  

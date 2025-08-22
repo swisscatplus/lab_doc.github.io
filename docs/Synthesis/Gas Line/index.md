@@ -1,5 +1,5 @@
 ---
-title: High-Pressure Gases (CatScreen)
+title: Gas Line
 layout: default
 parent: Synthesis
 ---

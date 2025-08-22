@@ -1,13 +1,9 @@
 ---
 title: Synthesis
 layout: home
-<<<<<<< Updated upstream
 nav_order: 6
 parent: Synthesis
 
-=======
-parent: Automation
->>>>>>> Stashed changes
 ---
 
 # Synthesis Platforms  

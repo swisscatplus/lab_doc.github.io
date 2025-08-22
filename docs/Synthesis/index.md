@@ -1,12 +1,9 @@
 ---
 title: Synthesis
 layout: home
-<<<<<<< Updated upstream
 nav_order: 6
-has_children: true
-=======
-parent: Automation
->>>>>>> Stashed changes
+parent: Synthesis
+
 ---
 
 # Synthesis Platforms  

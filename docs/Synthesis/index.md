@@ -2,8 +2,7 @@
 title: Synthesis
 layout: home
 nav_order: 6
-parent: Synthesis
-
+has_children: true
 ---
 
 # Synthesis Platforms  

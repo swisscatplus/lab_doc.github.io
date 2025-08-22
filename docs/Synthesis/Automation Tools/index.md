@@ -7,14 +7,14 @@ parent: Synthesis
 
 This page introduces the main **Chemspeed tools** integrated into the **Swing SP**, **CatScreen**, and **AutoPlant** platforms.  
 Each section contains: description, key features, applications, technical specifications, and image placeholders.  
-A reference video with additional demonstrations is available here: [Chemspeed Example Solutions](https://www.chemspeed.com/example-solutions/)
+Reference videos with demonstrations can be found here: [Chemspeed Example Solutions](https://www.chemspeed.com/example-solutions/)
 
 ---
 
 ## 1. 4NH
 
 **Description:**  
-Automated liquid handling tool designed for accurate dispensing of solvents and reagents into vials or microplates.
+Automated liquid handling tool designed for accurate dispensing of solvents and reagents into vials or Paradox plates.
 
 **Key Features:**  
 - Four independent dispensing heads.  
@@ -28,7 +28,7 @@ Automated liquid handling tool designed for accurate dispensing of solvents and 
 
 **Technical Specifications (typical):**  
 - Dispensing precision: ±1–2%.  
-- Volume range: µL to several mL.  
+- Volume range: 100 µL to 25 mL (according to 1, 10 or 25 ml syringe volume).  
 
 <!-- Image: 4NH dispensing head -->
 ![4NH](assets/img/INSERT_4nh.png)

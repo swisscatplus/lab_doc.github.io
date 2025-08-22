@@ -7,7 +7,7 @@ parent: Automation
 # Synthesis Area  
 
 The synthesis section is arranged in an **H-shaped layout with seven gloveboxes**, connected in series and designed to handle different stages of experiment preparation.  
-All gloveboxes are sealed and filled with a **nitrogen atmosphere** to ensure inert conditions.  
+All glove boxes are sealed and filled with a **nitrogen atmosphere** to ensure inert conditions.  
 
 The **H-shaped structure has four external airlocks**, located at the ends of each branch of the H.  
 These airlocks provide controlled entry and exit points between the glovebox network and the outside environment, allowing the transfer of consumables, chemicals, and samples without breaking the inert atmosphere.  

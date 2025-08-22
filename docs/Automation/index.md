@@ -58,7 +58,8 @@ These mobile robots operate on a **transparent overhead track (2.3 m above groun
 
 The **five stations** currently in operation are:  
 
-1. **2 HPLC + 1SFC-DAD-MS-collector/ELSD**  
+1. **2 HPLC-DAD-MS-fraction collector/ELSD** 
+   **1 SFC-DAD-MS-ELSD**
    - First screening of all samples.  
    - Two Universal Robots (UR) arms connect three instruments.  
 
@@ -66,7 +67,7 @@ The **five stations** currently in operation are:
    - Includes two Bravo liquid handlers (for concentration adjustments, evaporation, etc.), GC-MS, and a plate labeler.  
    - Linked by a KX2 SCARA robot.  
 
-3. **OmniFire + LC-Prep + FTIR + HRUV**  
+3. **OmniFire + LC-Prep + FTIR + HR-UV**  
    - Higher-volume LC for sample preparation.  
    - OmniFire prepares plates for downstream stations or inserts them into UV or IR analyzers.  
 

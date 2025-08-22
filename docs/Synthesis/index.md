@@ -2,6 +2,7 @@
 title: Synthesis
 layout: home
 nav_order: 6
+has_children: true
 ---
 The basis docs for synthesis are here :
 

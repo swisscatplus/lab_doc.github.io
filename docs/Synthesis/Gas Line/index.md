@@ -1,7 +1,7 @@
 ---
 title: High-Pressure Gases (CatScreen)
 layout: default
-parent: Automation
+parent: Synthesis
 ---
 
 # High-Pressure Reactive Gases – CatScreen

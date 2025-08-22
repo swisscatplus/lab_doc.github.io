@@ -68,7 +68,7 @@ High-precision solid dispensing unit capable of handling powders using a **two-s
 ## 3. GDU-V (Volumetric Dispensing Unit)
 
 **Description:**  
-Volumetric dosing module optimized for viscous or liquid reagents where gravimetric control is not required.
+Gravimetric dosing module optimized for viscous or liquid reagents where gravimetric control is not required.
 
 **Key Features:**  
 - High throughput liquid dispensing.  
@@ -108,7 +108,7 @@ Large-volume **Process Development (PD) reactors** for optimization and kinetic 
 
 **Technical Specifications (typical):**  
 - Volume range: up to 200 mL effective scale-up.  
-- Temperature: –20 °C to +200 °C.  
+- Temperature: –20 °C to +150 °C.  
 - Pressure: up to 80 bar.  
 
 <!-- Image: PD reactors -->
@@ -121,10 +121,10 @@ Large-volume **Process Development (PD) reactors** for optimization and kinetic 
 ## 5. Gripper MTP / Eccentric Gripper
 
 **Description:**  
-Robotic handling tools for manipulating microplates, vials, or reaction blocks.
+Robotic handling tools for manipulating Paradox plates, vials, or reaction blocks.
 
 **Key Features:**  
-- MTP gripper for microtiter plates.  
+- MTP gripper for Paradox and MTP plates.  
 - Eccentric gripper for non-standard geometries.  
 - Automated transfer between modules.  
 
@@ -160,8 +160,8 @@ Uses **electrical heating (Heether Shinko)** and **oil-based cooling (cryostat)*
 - Thermal control during catalysis experiments.  
 
 **Technical Specifications (typical):**  
-- Temperature range: –20 °C to +200 °C.  
-- Shaking speed: 100–1500 rpm.  
+- Temperature range: –20 °C to +150 °C.  
+- Shaking speed: 100–800 rpm.  
 
 <!-- Image: Heating/Shaker plate -->
 ![Heating Plate Shaker](assets/img/INSERT_heating_shaker.png)
@@ -174,7 +174,7 @@ Uses **electrical heating (Heether Shinko)** and **oil-based cooling (cryostat)*
 
 **Description:**  
 Specialized reactor block for parallel reactions under controlled pressure.  
-Compatible with 48- and 96-well plates.
+Compatible with 48- and 96-well Paradox or MTP plates.
 
 **Key Features:**  
 - Allows gas pressurization of entire reaction plate.  
@@ -187,11 +187,11 @@ Compatible with 48- and 96-well plates.
 
 **Technical Specifications (typical):**  
 - Pressure: up to 80 bar.  
-- Temperature: ambient to 200 °C (with heating plate).  
+- Temperature: ambient to 150 °C (with heating plate).  
 
 <!-- Image: MTP Pressure Block -->
 ![MTP Pressure Block](assets/img/INSERT_mtp_pressure_block.png)
 
-**Platforms:** Swing SP, CatScreen, AutoPlant  
+**Platforms:**  CatScreen  
 
 ---

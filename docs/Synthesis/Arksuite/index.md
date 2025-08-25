@@ -5,8 +5,9 @@ parent: Synthesis
 ---
 # ArkSuite – Data-Centric Experiment Management  
 
-**ArkSuite** is a data-driven software environment integrated exclusively into the **CatScreen** and **Swing SP** platforms.  
-Unlike AutoSuite, which mainly focuses on **instrument control and task execution**, ArkSuite emphasizes **data organization, experiment design, and knowledge management**.  
+**ArkSuite** is a data-driven software environment.  
+Unlike AutoSuite, which mainly focuses on **instrument control and task execution**, ArkSuite emphasizes **data organization, experiment design and management**.  
+**Platforms**: CatScreen, Swing SP. 
 
 <!-- Image: ArkSuite overview -->
 ![ArkSuite Overview](assets/img/INSERT_arksuite_overview.png)
@@ -25,7 +26,7 @@ Unlike AutoSuite, which mainly focuses on **instrument control and task executio
   ArkSuite allows scientists to **configure, compare, and optimize experiments** more efficiently than the task-based logic of AutoSuite.  
 
 - **Integration with AI & predictive modeling**  
-  Structured data from ArkSuite can be directly used in **machine learning models** to support decision-making.  
+  Structured data from ArkSuite (**JSON files**) can be directly used in **machine learning models** to support decision-making.  
 
 <!-- Image: ArkSuite vs AutoSuite comparison -->
 ![ArkSuite vs AutoSuite](assets/img/INSERT_arksuite_vs_autosuite.png)
@@ -63,7 +64,7 @@ Unlike AutoSuite, which mainly focuses on **instrument control and task executio
 ## Digital Twin  
 
 **Definition:**  
-The **Digital Twin** in ArkSuite is a **virtual replica of the laboratory environment** that mirrors the configuration of the physical system.  
+The **Digital Twin** in ArkSuite is a **virtual replica of the laboratory environment** that mirrors the configuration of the physical platform.  
 
 **Purpose:**  
 - Allows experiments to be **designed, tested, and validated virtually** before execution.  

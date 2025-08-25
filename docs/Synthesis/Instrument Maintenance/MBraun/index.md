@@ -1,5 +1,5 @@
 ---
 title: MBraun
 layout: home
-parent: Synthesis
+parent: Instrument Maintenance
 ---

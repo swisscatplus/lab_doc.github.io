@@ -9,6 +9,12 @@ This page introduces the main **Chemspeed tools** integrated into the **Swing SP
 Each section contains: description, key features, applications, technical specifications, and image placeholders.  
 Reference videos with demonstrations can be found here: [Chemspeed Example Solutions](https://www.chemspeed.com/example-solutions/)
 
+## Robotic Arm and Tools
+
+The **Swing XL** platform uses a **4-axis robotic arm** (X, Y, Z, Alpha rotation).  
+This arm mounts different **tools** to perform the most common laboratory operations, ensuring precise and automated workflows.
+
+
 ---
 
 ## 1. 4NH

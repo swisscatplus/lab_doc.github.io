@@ -27,7 +27,7 @@ The series and models of all machines are found in the link below
 ........................
 Insert an image here of analytical platform.
 
-The analytical platform is used as a service for 
+The analytical platform is used as a service for different groups.
 
 
 Instruments have different types of control. Their IT control is depicted in the IT section.

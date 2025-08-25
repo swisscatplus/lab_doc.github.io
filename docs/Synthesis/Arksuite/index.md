@@ -29,7 +29,7 @@ Unlike AutoSuite, which mainly focuses on **instrument control and task executio
   Structured data from ArkSuite (**JSON files**) can be directly used in **machine learning models** to support decision-making.  
 
 <!-- Image: ArkSuite vs AutoSuite comparison -->
-![ArkSuite vs AutoSuite](assets/img/INSERT_arksuite_vs_autosuite.png)
+![ArkSuite vs AutoSuite](assets/images/INSERT_arksuite_vs_autosuite.png)
 
 ---
 
@@ -74,6 +74,6 @@ The **Digital Twin** in ArkSuite is a **virtual replica of the laboratory enviro
 - Provides a **safe test environment** for new protocols.  
 
 <!-- Image: ArkSuite Digital Twin -->
-![ArkSuite Digital Twin](assets/img/INSERT_arksuite_digital_twin.png)
+![ArkSuite Digital Twin](assets/images/arksuite_digital_twin.png)
 
 ---

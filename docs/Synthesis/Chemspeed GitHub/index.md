@@ -1,5 +1,5 @@
 ---
-title: Chemspeed IPCs
+title: Chemspeed GitHub
 layout: home
 parent: Synthesis
 ---

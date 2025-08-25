@@ -17,6 +17,7 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 - Defines the **overall experiment setup** (drivers, parameters, global settings).
 - Serves as the **blueprint** of the experiment prior to execution.
 - Central place to ensure hardware and software options are correctly selected.
+
 <!-- Image: AutoSuite Configuration section -->
 ![AutoSuite Configuration](./../../../assets/images/configuration.png)
 
@@ -24,6 +25,7 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 - Organizes **physical/logical areas** where tasks will run (e.g., instruments, reactors, platform modules).
 - Each **Zone** corresponds to a specific experimental unit and owns its timeline.
 - Helps visualize task allocation across equipment.
+
 <!-- Image: AutoSuite Zone section -->
 ![AutoSuite Zones](./../../../assets/images/zone.png)
 
@@ -31,6 +33,7 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 - Defines the **sequence of operations** (dosing, stirring, heating, etc.).
 - Each **Task** is an actionable step executed by a specific driver.
 - Tasks are arranged in the **timeline** within a Zone.
+
 <!-- Image: AutoSuite Task section -->
 ![AutoSuite Tasks](./../../../assets/images/task.png)
 
@@ -40,6 +43,7 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 - Runs a **virtual dry-run** of the configured workflow.
 - Detects **errors, missing links, or driver conflicts** before execution.
 - Ensures the workflow is **logically consistent** and resources are available.
+
 <!-- Image: AutoSuite Simulation window -->
 ![AutoSuite Simulation](./../../../assets/images/simulation.png)
 
@@ -49,6 +53,7 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 - Handles **real-time execution** of the experiment.
 - Reads configuration and tasks, then **dispatches commands** to hardware.
 - Shows **live progress**, statuses, and feedback from instruments.
+
 <!-- Image: AutoSuite Executor interface -->
 ![AutoSuite Executor](./../../../assets/images/executor.png)
 
@@ -58,6 +63,7 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 - Utility for **configuring and controlling device drivers**.
 - Allows manual **connect/disconnect/reset** of drivers and quick diagnostics.
 - Useful for **troubleshooting** or controlling equipment **outside** a running experiment.
+
 <!-- Image: AutoSuite Driver Manager panel -->
 ![AutoSuite Driver Manager](./../../../assets/images/driver_manager.png)
 

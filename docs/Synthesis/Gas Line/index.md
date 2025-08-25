@@ -9,7 +9,7 @@ parent: Synthesis
 This procedure describes the use of **H₂ up to 80 bar** on the **CatScreen** as an example. The steps are, in principle, also applicable to **other reactive gases** and the **AutoPlant**.
 
 <!-- Replace with actual image path -->
-![Gas manifold above the CatScreen workstation](assets/img/INSERT_catscreen_manifold.png)
+![Gas manifold above the CatScreen workstation](./../../../assets/images/manifold.png)
 
 ---
 
@@ -27,8 +27,6 @@ This procedure describes the use of **H₂ up to 80 bar** on the **CatScreen** a
 2. Set **M3** to **“N₂”**. **Wait 10 seconds** to flush the manifold.  
 3. Set **M3** to **“OFF”**.  
 
-<!-- Replace with actual image path -->
-![H₂ cylinder (corridor, cabinet d)](assets/img/INSERT_h2_cylinder.png)
 
 ---
 
@@ -45,6 +43,8 @@ Before starting: make sure **C1, C2, C3, C4 and M1 are closed** and **M3 is set 
 6. Set **M3** to **“H₂”** (or the desired gas).  
 7. **MTP Pressure Block (CatScreen):** open **F** until the **target pressure** is reached.  
 
+<!-- Replace with actual image path -->
+![H₂ cylinder (corridor, cabinet d)](./../../../assets/images/cylinder.png)
 ---
 
 ## Setting the reactor to “Closed under Pressure”
@@ -55,7 +55,7 @@ Before starting: make sure **C1, C2, C3, C4 and M1 are closed** and **M3 is set 
 > Once ready to pressurize: set **M3 to “H₂”** and, for the MTP Pressure Block, **open F** until the target pressure is reached.  
 
 <!-- Replace with actual image path -->
-![CatScreen Gas Box](assets/img/INSERT_catscreen_gasbox.png)
+![CatScreen Gas Box](./../../../assets/images/gasbox.png)
 
 - [ ] The **same procedure** applies to **other gases** by connecting a different cylinder in the cabinet and opening the corresponding manifold valve.  
 - [ ] The cylinder is connected to both the **workstation** and the **AutoPlant**; **before the PD reactors there is no regulation**, only **ON–OFF**. **Always double-check manifolds on both workstations** before starting a new experiment.  

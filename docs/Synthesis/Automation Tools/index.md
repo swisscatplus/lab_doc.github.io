@@ -5,8 +5,7 @@ parent: Synthesis
 ---
 # Chemspeed Tools Overview
 
-This page introduces the main **Chemspeed tools** integrated into the **Swing SP**, **CatScreen**, and **AutoPlant** platforms.  
-Each section contains: description, key features, applications, technical specifications, and image placeholders.  
+This page introduces the main **Chemspeed tools** integrated into the **Swing SP**, **CatScreen**, and **AutoPlant** platforms.   
 Reference videos with demonstrations can be found here: [Chemspeed Example Solutions](https://www.chemspeed.com/example-solutions/)
 
 ## Robotic Arm and Tools

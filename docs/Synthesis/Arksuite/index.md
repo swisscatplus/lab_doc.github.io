@@ -40,24 +40,21 @@ Unlike AutoSuite, which mainly focuses on **instrument control and task executio
 - Acts as the **top-level definition** (e.g., “Solvent”, “Ligand”, “Substrate”).  
 - Articles serve as categories under which products are grouped.  
 
-<!-- Image: ArkSuite Article concept -->
-![ArkSuite Article](assets/img/INSERT_arksuite_article.png)
+
 
 ### Product  
 - A **specific instance** of an Article.  
 - Example: Article = “Solvent”; Product = “Toluene” or “THF”.  
 - Products carry detailed information such as supplier, batch, and purity.  
 
-<!-- Image: ArkSuite Product concept -->
-![ArkSuite Product](assets/img/INSERT_arksuite_product.png)
+
 
 ### Attribute  
 - **Descriptors** attached to Articles or Products.  
 - Provide measurable or categorical properties (e.g., boiling point, density, SMILES code).  
 - Attributes allow **data filtering, searching, and modeling**.  
 
-<!-- Image: ArkSuite Attribute concept -->
-![ArkSuite Attribute](assets/img/INSERT_arksuite_attribute.png)
+
 
 ---
 

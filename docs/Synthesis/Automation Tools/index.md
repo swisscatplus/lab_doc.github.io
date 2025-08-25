@@ -31,13 +31,13 @@ Automated liquid handling tool designed for accurate dispensing of solvents and 
 - Volume range: 100 µL to 25 mL (according to 1, 10 or 25 ml syringe volume).  
 
 <!-- Image: 4NH dispensing head -->
-![4NH](assets/img/INSERT_4nh.png)
+![4NH](./../../../assets/images/4nh.png)
 
 **Platforms:** Swing SP, CatScreen, AutoPlant  
 
 ---
 
-## 2. GDU PFD (Gravimetric Dispensing Unit – Powder Fine Dosing)
+## 2. GDU PfD (Gravimetric Dispensing Unit – Powder Fine Dosing)
 
 **Description:**  
 High-precision solid dispensing unit capable of handling powders using a **two-step principle**:  
@@ -59,7 +59,7 @@ High-precision solid dispensing unit capable of handling powders using a **two-s
 - Capacity: from a few mg up to several grams.  
 
 <!-- Image: GDU PFD unit -->
-![GDU PFD](assets/img/INSERT_gdu_pfd.png)
+![GDU PFD](./../../../assets/images/gdupfd.png)
 
 **Platforms:** Swing SP, CatScreen, AutoPlant  
 
@@ -84,9 +84,59 @@ Gravimetric dosing module optimized for viscous or liquid reagents where gravime
 - Volume range: 10 µL – 5 mL.  
 
 <!-- Image: GDU-V unit -->
-![GDU-V](assets/img/INSERT_gdu_v.png)
+![GDU-V](./../../../assets/images/gduv.png)
 
 **Platforms:** Swing SP, CatScreen, AutoPlant  
+
+---
+# GDU – Principle of Operation
+
+The **Gravimetric Dispensing Unit (GDU)** is an automated dosing system that combines a **dispensing mechanism**, an **analytical balance**, and a **real-time control algorithm** to achieve highly accurate additions of solids or liquids.
+
+<!-- Image: GDU overview -->
+![GDU Overview](./../../../assets/images/gdu_overview.png)
+
+---
+
+## Core Concept (Closed-Loop Control)
+
+- **Dispensing element** (e.g., screw feeder, vibrating chute, syringe/piston);
+- **Analytical balance** under the receiving vessel for continuous mass read-out;
+- **Controller** that transitions from **rough dosing** to **fine dosing** near the target;
+- Constant logging for **traceability** (target, actual, tolerance, timestamp).
+
+---
+
+## GDU PFD – Powder Fine Dosing
+
+**Principle:**  
+Two-stage gravimetric dosing:
+1. **Rough dosing** – fast bulk transfer to approach the setpoint quickly.  
+2. **Fine dosing** – reduced feed/vibration for milligram-level accuracy, stopping exactly at target mass via balance feedback.
+
+- Stable, repeatable dosing of micro- to gram-scale solids;
+- Minimized operator influence; fully automated cycles;
+
+
+**Typical Performance:**
+- Accuracy: **< 1 mg** (depending on material flowability and setup);
+- Working range: **few mg → several g**.
+
+---
+
+## GDU-V / GDU-L – Volumetric & Liquid Dosing
+
+**Principle:**  
+Volumetric displacement (syringe/piston). Optional balance feedback can be used to correct for density or temperature effects when needed.
+
+**Key Points (Liquids/Viscous):**
+- High-throughput liquid additions with consistent volumes.
+- Compatible with a wide viscosity range and many solvents.
+- Integrates with plate/vial workflows for HTE.
+
+**Typical Performance (indicative):**
+- Precision: **±1–2%**.
+- Volume range: **10 µL → several mL**.
 
 ---
 
@@ -112,7 +162,7 @@ Large-volume **Process Development (PD) reactors** for optimization and kinetic 
 - Pressure: up to 80 bar.  
 
 <!-- Image: PD reactors -->
-![PD Reactors](assets/img/INSERT_pd_reactors.png)
+![PD Reactors](./../../../assets/images/pdreactor.png)
 
 **Platforms:** AutoPlant (dedicated)  
 
@@ -137,7 +187,7 @@ Robotic handling tools for manipulating Paradox plates, vials, or reaction block
 - Repeatability: ±0.1 mm positioning.  
 
 <!-- Image: Gripper MTP -->
-![Gripper](assets/img/INSERT_gripper.png)
+![Gripper](./../../../assets/images/gripper.png)
 
 **Platforms:** Swing SP, CatScreen, AutoPlant  
 
@@ -163,8 +213,6 @@ Uses **electrical heating (Heether Shinko)** and **oil-based cooling (cryostat)*
 - Temperature range: –20 °C to +150 °C.  
 - Shaking speed: 100–800 rpm.  
 
-<!-- Image: Heating/Shaker plate -->
-![Heating Plate Shaker](assets/img/INSERT_heating_shaker.png)
 
 **Platforms:** Swing SP, CatScreen, AutoPlant  
 
@@ -190,7 +238,7 @@ Compatible with 48- and 96-well Paradox or MTP plates.
 - Temperature: ambient to 150 °C (with heating plate).  
 
 <!-- Image: MTP Pressure Block -->
-![MTP Pressure Block](assets/img/INSERT_mtp_pressure_block.png)
+![MTP Pressure Block](./../../../assets/images/pressure_block.png)
 
 **Platforms:**  CatScreen  
 

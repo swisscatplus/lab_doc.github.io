@@ -60,7 +60,7 @@ Unlike AutoSuite, which mainly focuses on **instrument control and task executio
 
 ## Digital Twin  
 
-**Definition:**  
+ 
 The **Digital Twin** in ArkSuite is a **virtual replica of the laboratory environment** that mirrors the configuration of the physical platform.  
 
 **Purpose:**  
@@ -68,7 +68,7 @@ The **Digital Twin** in ArkSuite is a **virtual replica of the laboratory enviro
 - Ensures that parameters defined in ArkSuite align with the **capabilities and limits** of the real instruments.  
 - Reduces risk of errors and improves **efficiency in workflow setup**.  
 
-**Key Benefits:**  
+**Advantages:**  
 - Enhances **reproducibility** and consistency.  
 - Facilitates **scale-up transfer** of workflows.  
 - Provides a **safe test environment** for new protocols.  
@@ -80,11 +80,10 @@ The **Digital Twin** in ArkSuite is a **virtual replica of the laboratory enviro
 
 ## Workflow Diagram  
 
-**Definition:**  
+ 
 The **Workflow Diagram** in ArkSuite is a **graphical representation of an experiment**.  
 It allows the user to visualize the **sequence of operations**, the **flow of materials**, and the **relationships between tasks**.  
 
-**Key Features:**  
 - Displays experiments as **interactive diagrams** rather than simple task lists.  
 - Each node in the diagram corresponds to an **operation, product, or transformation**.  
 - Links between nodes represent the **logical and material flow**.  
@@ -102,7 +101,7 @@ It allows the user to visualize the **sequence of operations**, the **flow of ma
 
 ## Export of Data  
 
-**Definition:**  
+ 
 ArkSuite provides robust options for **data export**, ensuring that experimental results are accessible and usable outside the software environment.  
 
 **Export Formats:**  
@@ -110,7 +109,7 @@ ArkSuite provides robust options for **data export**, ensuring that experimental
 - **JSON / XML** for structured data integration into databases or AI pipelines.  
 - **PDF reports** for documentation and compliance purposes.  
 
-**Key Features:**  
+
 - Data can be exported **at the level of Articles, Products, Attributes, or full workflows**.  
 - Maintains **metadata** (e.g., date, operator, platform, conditions).  
 - Enables direct transfer into **predictive modeling environments**.  

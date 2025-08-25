@@ -77,3 +77,45 @@ The **Digital Twin** in ArkSuite is a **virtual replica of the laboratory enviro
 ![ArkSuite Digital Twin](./../../../assets/images/arksuite_digital_twin.png)
 
 ---
+
+## Workflow Diagram  
+
+**Definition:**  
+The **Workflow Diagram** in ArkSuite is a **graphical representation of an experiment**.  
+It allows the user to visualize the **sequence of operations**, the **flow of materials**, and the **relationships between tasks**.  
+
+**Key Features:**  
+- Displays experiments as **interactive diagrams** rather than simple task lists.  
+- Each node in the diagram corresponds to an **operation, product, or transformation**.  
+- Links between nodes represent the **logical and material flow**.  
+- Facilitates **debugging and optimization** of experimental design.  
+
+**Advantages:**  
+- Clear overview of complex workflows.  
+- Easy to communicate experimental plans across teams.  
+- Provides a **direct link to the Digital Twin**, ensuring feasibility.  
+
+<!-- Image: ArkSuite Workflow Diagram -->
+![ArkSuite Workflow Diagram](./../../../assets/images/arksuite_workflow_diagram.png)
+
+---
+
+## Export of Data  
+
+**Definition:**  
+ArkSuite provides robust options for **data export**, ensuring that experimental results are accessible and usable outside the software environment.  
+
+**Export Formats:**  
+- **Excel / CSV** for tabular results and simple reporting.  
+- **JSON / XML** for structured data integration into databases or AI pipelines.  
+- **PDF reports** for documentation and compliance purposes.  
+
+**Key Features:**  
+- Data can be exported **at the level of Articles, Products, Attributes, or full workflows**.  
+- Maintains **metadata** (e.g., date, operator, platform, conditions).  
+- Enables direct transfer into **predictive modeling environments**.  
+
+**Advantages:**  
+- Ensures **interoperability** with other software tools.  
+- Facilitates **data-driven research and machine learning**.  
+- Guarantees **traceability** for regulatory or collaborative projects.  

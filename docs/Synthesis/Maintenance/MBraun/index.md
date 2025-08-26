@@ -119,6 +119,6 @@ Purchase oil from MBraun:
 When changing the oil, also replace the filter (purchase from MBraun):  
 
 <!-- Image: Oil filter -->
-![Vacuum Pump Filter](./../../../assets/images/mbraun_filter.png)
+![Vacuum Pump Filter](https://shop.mbraun.de/ENU/24142/1513402_Filter_element_Oil_mist_filter.html?FromNo=23323)
 
 ---

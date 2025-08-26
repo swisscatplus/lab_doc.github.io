@@ -106,7 +106,7 @@ In general,
 2. SFC - DAD - MS (SQ) - ELSD
 * Image to insert here (HPLC)
 * Valve schema
-* Purpose:** to screen all volatile and possibly semi-volatile samples.
+**Purpose:** to screen all volatile and possibly semi-volatile samples.
 **Design:** 7 modules. They can be controlled and modified in method or directly in 
       instrument status screen.
     - Auto-sampler: sample injection, there is no loop here.
@@ -121,7 +121,7 @@ In general,
   The split ratio for instant is: 80% for DAD and 20% for MS. The ratio can be changed by 
   changing the capillary diameter and length. The longer and smaller capillary will decrease
   the flow.
-**Gas line**
+**Gas line:**
     - ..............
 **Automation and tools:**
     - Between SFC and HPLC, there is a 6-axe robot to transfer the sample. See more in Automation part.

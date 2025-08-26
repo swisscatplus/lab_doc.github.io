@@ -11,7 +11,7 @@ grand_parent: Synthesis
 The **green light** for the Chemspeed SP (circuit 2) and ISYNTH CatScreen (circuit 3) must be lit on the wall box.  
 
 <!-- Image: Cooling water circulation indicator -->
-![Cooling Water Circulation](./../../../assets/images/mbraun_cooling.png)
+![Cooling Water Circulation](./../../../../assets/images/mbraun_cooling.png)
 
 ---
 
@@ -30,8 +30,8 @@ The gas cylinder must be connected with the pressure regulator at the following 
 
 
 <!-- Image: Gas cylinder connection -->
-![Pressure Gauge](./../../../assets/images/mbraun_gauge.png)
-![Pressure Gauge](./../../../assets/images/mbraun_gauge.png)
+![Pressure Gauge](./../../../../assets/images/mbraun_gauge.png)
+![Pressure Gauge](./../../../../assets/images/mbraun_connection.png)
 
 (The pressure gauge to use is located **in the white cabinet in the hallway**)
 ---
@@ -41,7 +41,7 @@ The gas cylinder must be connected with the pressure regulator at the following 
 At the end of the regeneration process, empty the container filled with water.  
 
 <!-- Image: Water container -->
-![Water Container](./../../../assets/images/mbraun_water_container.png)
+![Water Container](./../../../../assets/images/mbraun_water_container.png)
 
 ---
 
@@ -73,25 +73,26 @@ If the reactor has already been regenerated, proceed. Otherwise, perform regener
 **CAUTION:** Always remove the O₂ sensor and store it in its sealed case (white cabinet) to prevent deterioration of the capsule.  
 
 ---
+# Sensors
 
-## Oxygen (O₂) Sensor
+<!-- Image: O2 sensor housing -->
+![O₂ Sensor Housing](./../../../../assets/images/mbraun_sensors.png)
+
+## O₂ Sensor
 
 - Location on the MBraun glovebox.  
 - Position of the waterproof housing in the probe box.  
 - White capsule inside the O₂ probe.  
 
-<!-- Image: O2 sensor location -->
-![O₂ Sensor Location](./../../../assets/images/mbraun_o2sensor1.png)
 
-<!-- Image: O2 sensor housing -->
-![O₂ Sensor Housing](./../../../assets/images/mbraun_o2sensor2.png)
+
 
 <!-- Image: O2 probe capsule -->
-![O₂ Capsule](./../../../assets/images/mbraun_o2capsule.png)
+![O₂ Capsule](./../../../../assets/images/mbraun_o2capsule.png)
 
 ---
 
-# Cleaning the H₂O Analyzer
+# Cleaning the H₂O Sensor
 
 See the following YouTube video for instructions:  
 [▶ Cleaning the MBraun H₂O Analyzer](https://www.youtube.com/watch?v=wHVVfeNDNkA)
@@ -101,19 +102,19 @@ See the following YouTube video for instructions:
 # Glove Substitution
 
 Refer to the following document:  
-[Glove Substitution PDF](./../../../assets/docs/2609255-EN_Gloveport_oval-long_V5.1_240813.pdf)
+[Glove Substitution PDF](./../../../assets/pdf/2609255-EN_Gloveport_oval-long_V5.1_240813.pdf)
 
 ---
 
 # Oil Change for Vacuum Pump
 
 Follow the procedure in the video:  
-[▶ Vacuum Pump Oil Change – YouTube](https://youtu.be/V1sBv10YBhc)
+[▶ Vacuum Pump Oil Change](https://shop.mbraun.de/ENU/26062/Item.aspx?ItemNo=1510801)
 
 Purchase oil from MBraun:  
 
 <!-- Image: Oil for vacuum pump -->
-![Vacuum Pump Oil](./../../../assets/images/mbraun_oil.png)
+![Vacuum Pump Oil](https://www.youtube.com/watch?v=WrWLRE6FoWI)
 
 When changing the oil, also replace the filter (purchase from MBraun):  
 

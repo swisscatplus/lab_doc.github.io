@@ -12,10 +12,7 @@ parent: Synthesis
 ---
 
 ## 1) Log in
-- Go to: **http://swisscatsrv5/login**  
-  **User**: `admin` **Password**: `S1cr2t`  
-  :contentReference[oaicite:0]{index=0}
-  
+
 ![login](./../../../assets/images/ark_login.png)
 
 ---

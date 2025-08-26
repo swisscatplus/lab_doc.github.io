@@ -43,6 +43,7 @@ The general analytical workflow is found below.....
 - Purified by preparative LC, collected and characterized by NMR, FT-IR, UV and SFC-IM-QTOF.
 - If there is chiral compound, collect from HPLC and transfer to SFC for enantiomer excess calculation.
 
+=======
 >>>>>>> Stashed changes
 The analytical platform is used as a service for analyzing synthesized samples 
 from SwissCat+, EPFL collaborators and external clients. The second objective is to develop

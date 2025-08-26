@@ -27,7 +27,7 @@ SwissCat+ is organized into specialized teams, each focusing on a specific domai
 
 ### Synthesis
 - **Stefano**, Chemistry Scientist
-- **Sebastien**, Chemistry Scientist
+- **Sebastian**, Chemistry Scientist
 
 ---
 

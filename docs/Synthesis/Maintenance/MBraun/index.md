@@ -2,6 +2,7 @@
 title: MBraun
 layout: home
 parent: Maintenance
+grand_parent: Synthesis
 ---
 
 # How to Start the Regeneration – MBraun

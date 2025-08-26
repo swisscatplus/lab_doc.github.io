@@ -2,6 +2,7 @@
 title: Chemspeed
 layout: home
 parent: Maintenance
+grand_parent: Synthesis
 ---
 # Emptying Chemspeed 17-Liter Metal Solvent Bottles
 

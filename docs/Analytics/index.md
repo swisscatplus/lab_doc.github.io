@@ -27,16 +27,78 @@ The series and models of all machines are found in the link below
 ........................
 Insert an image here of analytical platform.
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+The analytical platform is used as a analytical service for different synthesis collaborator groups, 
+external clients. Another objective is to develop a fully automnatic platform, hardware also 
+software. Therefore, many projects are in progress. See more in automation.
+
+## General analytical workflow
+The general analytical workflow is found below.....
+- Sample transferred by a Edy mobile from synthesis platform to Screening part.
+- Analyzed by HPLC or GC to response the question: if there is a new molecule?
+- If not, Yield calculation. 
+- If yes, re-synthesized with higher concentration, 
+- Purified by preparative LC, collected and characterized by NMR, FT-IR, UV and SFC-IM-QTOF.
+- If there is chiral compound, collect from HPLC and transfer to SFC for enantiomer excess calculation.
+
+>>>>>>> Stashed changes
 The analytical platform is used as a service for analyzing synthesized samples 
 from SwissCat+, EPFL collaborators and external clients. The second objective is to develop
 a platform automated completely working including both hardware (e.g., machine - machine and 
 machine - robot connection) as well as software part (e.g, automatical method selection and development,
 data generation, treatment and management).
 
-# General analytical workflow
-# Control and soflware
+### Control and soflware
 Instruments have different types of control. Their IT control is depicted in the IT section.
+In general, 
 
-## Screening steps
+#### Screening steps
+**Purpose**: to screen and detect a wide range of compound as much as possible. 300 samples/day
+1. Analytical HPLC - DAD - MS (SQ) - Fraction collector/ELSD
+* Image to insert here (HPLC)
+* Valve schema
+**Purpose:** to screen all non-volatile samples.
+**Design:** 8 modules. They can be controlled and modified in method or directly in 
+      instrument status screen.
+    - Auto-sampler: sample injection, the loop is 120uL.
+    - Column chamber: capacity of 4 columns installation.
+    - LC pump (quartenary): Pressure maximum: 800 bar. 4 solvent tubes: A,B,C,D and be chosen by purpose.
+    - DAD (diode array detector): UV and Vis lamp. wavelength: 200-800nm. 
+    - MS (mass spectrometry): single-quad. No pump or make-up solvent necessary.
+    - ELSD (evaporative light scattering detector)
+    - Fraction collector: 
+    - Cooling system for fraction collector.
+  There is also a tray to put solvent bottles. ..... 
+  The outgoing fluid from column will be split passively to DAD and MS by a T-connector.
+  The split ratio for instant is: 80% for DAD and 20% for MS. The ratio can be changed by 
+  changing the capillary diameter and length. The longer and smaller capillary will decrease
+  the flow.
+  The flow from DAD will go to a valve. This valve allows us to choose which module is used next
+  ELSD or fraction collector. If there is a chiral compound, fraction collector (position 6) 
+  will be chosen to collect the sample into a metal tray of 96-well with 1.2mL insert. If not, 
+  ELSD is chosen (position 2).
+**Automation and tools:**
+    - 2 HPLC are connected together by a 6-axe robot. See more in Automation part.
+**Process:**
+    - Install/check column, solvent bottle level
+    - Turn on all modules. Wait until it is ready (green color for each module)
+    - Samples are put in auto-sampler by 6-axes.
+    - Method running in acquisition mode.
+    - Data collection and treatment
+**Outcome:**
+    - Depending on screened molecules, there is DAD (UV-absorption sample), 
+      ELSD (non-volatile sample), and MS signal (ionizable sample).
+    - If the fraction collector is chosen, there is only DAD and MS signal. The position of 
+      collecting samples and volume can be obtained.
+    - All the acquisition method details can be found in acquisition setup.
+    - Peak details can be found in Peak Details and Injection Results and extracted automatedly.
+    - Calibration curve can also be done by Openlab.
+    - To set a method for treatment data, going to processing method to setup. This method can be
+      be saved and applied for all sequences or other sequences.
+
+2. SFC - DAD - MS (SQ) - ELSD
+3. GC - MS
 ## Characterization steps
 ## Sample preparation steps

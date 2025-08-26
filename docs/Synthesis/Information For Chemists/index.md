@@ -1,12 +1,11 @@
 ---
 title: Information for Chemists
 layout: home
-nav_order: 0
+nav_order: 1
 parent: Synthesis
 ---
 
-<!-- Image:  SwissCAT+ Logo -->
-![SwissCAT+ Logo](./../../../assets/images/logo.png)
+<img src="/assets/images/logo.png" alt="SwissCAT+ Logo" width="20%">
 
 # Information for Chemists
 The following is written for the general synthetic chemist who is interested in using SwissCAT+ for reaction screening and optimisation.
@@ -17,22 +16,22 @@ The following is written for the general synthetic chemist who is interested in 
 - 48 or 96 well plates (up to 2 mL or 1 mL per reaction vial)
 - Shaking or magnetic stirring
 - Temperature control (–20 °C to +150 °C)
-- Inert atmosphere (N~2~ or Ar)
+- Inert atmosphere (N<sub>2</sub> or Ar)
 
 **Large scale reactions for optimisation and kinetics**
 - Up to 3 simultaneous reactions of max. volume 240 mL
 - Stirring rod
 - Temperature control (–20 °C to +150 °C)
-- Inert atmosphere (N~2~ or Ar)
+- Inert atmosphere (N<sub>2</sub> or Ar)
 - Aliquot transfer to benchtop NMR
 - Infrared probes
 
 **Reactive gases (small and large scale)**
 - Acetylene (max 5 bar)
 - CO (max 5 bar)
-- CO~2~ (max 5 bar)
-- H~2~ (max 80 bar)
-- O~2~ (max 5 bar)
+- CO<sub>2</sub> (max 5 bar)
+- H<sub>2</sub> (max 80 bar)
+- O<sub>2</sub> (max 5 bar)
 
 **Transfer and manipulation**
 - Dispensing powders gravimetrically
@@ -115,7 +114,7 @@ For more detail on our analytical tools, see [Analytics](/docs/Analytics/).
 
 A typical reaction procedure for a homogeneous catalysis reaction may be of the following:
 
-"A suspension of substrate A (1 eq, soluble powder), substrate B (1 eq, oil), catalyst (5 mol%, soluble powder) and additive (10 mol%, insoluble powder) in degassed dry solvent (1 M) was heated to 60 °C with stirring for 16 h under a N~2~ atmosphere. The reaction mixture was then concentrated in vacuo and subjected to column chromatography to yield the product as a colourless solid (X% yield, Y% ee)."
+"A suspension of substrate A (1 eq, soluble powder), substrate B (1 eq, oil), catalyst (5 mol%, soluble powder) and additive (10 mol%, insoluble powder) in degassed dry solvent (1 M) was heated to 60 °C with stirring for 16 h under a N<sub>2</sub> atmosphere. The reaction mixture was then concentrated in vacuo and subjected to column chromatography to yield the product as a colourless solid (X% yield, Y% ee)."
 
 Suppose it is desired to screen solvents to optimise yield and enantioselectivity. We might use the following workflow to carry out this screening on our platform:
 

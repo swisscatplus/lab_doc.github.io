@@ -22,7 +22,7 @@ This procedure applies to the **Chemspeed Swing SP** and **CatScreen** metal sol
    - **Gauge No. 2**: Ensure the reading **does not exceed 1 bar**.
 
 <!-- Image: Overview of N₂ valve and gauge -->
-![N₂ Valve and Gauge](./../../../assets/images/chemspeed_waste_bw1.png)
+![N₂ Valve and Gauge](./../../../../assets/images/chemspeed_waste.png)
 
 2. **Isolate the glovebox → waste circuit**  
    - Move the **2-way valve (black) No. 1** to **close** the glovebox→waste circuit.
@@ -35,10 +35,12 @@ This procedure applies to the **Chemspeed Swing SP** and **CatScreen** metal sol
    - **Open gradually** to control the waste outflow speed.
 
 <!-- Image: Normal glovebox operating position of valves -->
-![Normal Operation – Valves](./../../../assets/images/chemspeed_waste_bw3.png)
+![Normal Operation – Valves](./../../../../assets/images/chemspeed_waste_container.png)
+Photo No. 1, valves in the normal Glovebox operating position.
 
 <!-- Image: Valve positions for emptying the 17-L waste bottles -->
-![Emptying Position – Valves](./../../../assets/images/chemspeed_waste_bw5.png)
+![Emptying Position – Valves](./../../../../assets/images/chemspeed_waste_container_2.png)
+Photo No. 2, valve in the position for emptying the solvent waste contained in the 17-liter metal bottles (5 liters of waste to bottles to be disposed of).
 
 > **After transfer is complete:**  
 > Return all valves to the **normal operating position** (as shown in the *Normal Operation – Valves* image).
@@ -81,6 +83,4 @@ High-performance grease recommended for precision mechanics on Chemspeed systems
 
 > Apply a thin, even film on clean components. Avoid contaminating sensors, belts, and dispensing paths.
 
-<!-- Image: ISOFLEX NBU 15 cartridge/tube -->
-![ISOFLEX NBU 15](./../../../assets/images/klueber_isoflex_nbu15.png)
 

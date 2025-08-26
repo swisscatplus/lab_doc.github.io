@@ -22,24 +22,18 @@ Watch the following YouTube video for catalyst regeneration:
 
 ---
 
-## Pressure Gauge
-
-The pressure gauge to use is located **in the white cabinet in the hallway**.  
-
-<!-- Image: Pressure gauge -->
-![Pressure Gauge](./../../../assets/images/mbraun_gauge1.png)
-![Pressure Gauge Close](./../../../assets/images/mbraun_gauge2.png)
-
----
 
 ## Gas Cylinder Connection
 
-The gas cylinder must be connected at the following location:  
+The gas cylinder must be connected with the pressure regulator at the following location:  
 **Catalyst regeneration gas in the Glove Box (Formier gas 95% N₂ + 5% H₂)** – ARCAL F5 Smartop 50L 200 bar cylinder.  
 
-<!-- Image: Gas cylinder connection -->
-![Gas Cylinder](./../../../assets/images/mbraun_gas_cylinder.png)
 
+<!-- Image: Gas cylinder connection -->
+![Pressure Gauge](./../../../assets/images/mbraun_gauge.png)
+![Pressure Gauge](./../../../assets/images/mbraun_gauge.png)
+
+(The pressure gauge to use is located **in the white cabinet in the hallway**)
 ---
 
 ## End of Regeneration

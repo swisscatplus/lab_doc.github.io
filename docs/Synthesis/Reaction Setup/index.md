@@ -78,7 +78,7 @@ parent: Synthesis
 
 ![run_execution](./../../../assets/images/arksuite_run_execution.png)
 
-- Per-experiment details: from **Run Entry**, click **Open execution details** to see each node’s inputs/outputs; enable auto-refresh if needed.  
+- Per-experiment details: from **Run Entry**, click **Open execution details** to see each node’s inputs/outputs. 
   :contentReference[oaicite:7]{index=7}
 
 ![execution_details](./../../../assets/images/arksuite_execution_details.png)

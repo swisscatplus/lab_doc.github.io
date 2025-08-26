@@ -33,3 +33,4 @@ It employs **240 mL reactors** for kinetic investigations. Following an initial 
 
 The reactors are fully integrated with **bench-top NMR** and **FT-IR spectrometers**, enabling real-time **reaction monitoring** and **kinetic analysis**.  
 They can be operated either under **inert atmosphere** or **pressurized with reactive gases**, depending on the experimental requirements.  
+

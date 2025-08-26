@@ -4,11 +4,10 @@ layout: home
 parent: Synthesis
 ---
 
-guide = r"""
 # ArkSuite — quick run creation & execution
 
-> **Scope**: how to create, queue, and monitor a Run from a Workflow, then execute it with AutoSuite (simulation or execution).  
-> **Platforms**: SWING SP & CATSCREEN.
+> How to create, queue, and monitor a Run from a Workflow, then execute it with AutoSuite (simulation or execution).  
+> **Platforms**: Swing SP & Catscreen.
 
 ---
 
@@ -17,7 +16,7 @@ guide = r"""
   **User**: `admin` **Password**: `S1cr2t`  
   :contentReference[oaicite:0]{index=0}
   
-![login](./../../../assets/images/arksuite_login.png)
+![login](./../../../assets/images/ark_login.png)
 
 ---
 
@@ -29,7 +28,7 @@ guide = r"""
 
 ---
 
-## 3) Visualize the workflow (web diagram)
+## 3) Visualize the workflow
 - Navigate: **Production → Workflow → Workflow Diagram**.  
   Pick the workflow from the dropdown. Use **Create Run** (running-man icon) to start a run from this workflow.  
   :contentReference[oaicite:1]{index=1}
@@ -37,7 +36,6 @@ guide = r"""
 - Note: Once a workflow is used to create a run it becomes **Frozen**; use **Save as** to copy/unlock for edits.  
   :contentReference[oaicite:2]{index=2}
 
-![workflow_diagram](./../../../assets/images/arksuite_workflow_diagram.png)
 
 ---
 
@@ -53,7 +51,6 @@ guide = r"""
 **Simulation naming**  
 - For simulations, include **`SIMU_`** in the Run label or in the comment.
 
-![create_run](./../../../assets/images/arksuite_create_run.png)
 
 ---
 
@@ -70,13 +67,12 @@ guide = r"""
 - Open the **AutoSuite** desktop app and choose **Simulation** or **Execution**.
 - AutoSuite idles in a **“Waiting for work”** loop until ArkSuite assigns a queued workflow to the target node/platform.
 
-![autosuite_waiting](./../../../assets/images/autosuite_waiting.png)
 
 ---
 
 ## 7) Monitor execution & control
 - Live queue/status: **Production → Run → Run Execution** (or **Run Operating → Execution**, site-dependent).  
-  Actions: **Change Priority**, **Pause**, **Start/Resume**, **Cancel**.  
+  Actions: **Change Priority**, **Pause**, **Start/Resume**, **Cancelled**.  
   **Run States**: *Created, Queued, Processing, Paused, Complete, Canceled, CompletedWithErrors*.  
   :contentReference[oaicite:6]{index=6}
 

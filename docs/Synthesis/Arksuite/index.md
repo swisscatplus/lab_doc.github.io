@@ -9,8 +9,6 @@ parent: Synthesis
 Unlike AutoSuite, which mainly focuses on **instrument control and task execution**, ArkSuite emphasizes **data organization, experiment design and management**.  
 **Platforms**: CatScreen, Swing SP. 
 
-<!-- Image: ArkSuite overview -->
-![ArkSuite Overview](assets/img/INSERT_arksuite_overview.png)
 
 ---
 

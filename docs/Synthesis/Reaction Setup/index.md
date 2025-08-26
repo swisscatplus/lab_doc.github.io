@@ -12,10 +12,7 @@ parent: Synthesis
 ---
 
 ## 1) Log in
-- Go to: **http://swisscatsrv5/login**  
-  **User**: `admin` **Password**: `S1cr2t`  
-  :contentReference[oaicite:0]{index=0}
-  
+
 ![login](./../../../assets/images/ark_login.png)
 
 ---
@@ -78,7 +75,7 @@ parent: Synthesis
 
 ![run_execution](./../../../assets/images/arksuite_run_execution.png)
 
-- Per-experiment details: from **Run Entry**, click **Open execution details** to see each node’s inputs/outputs; enable auto-refresh if needed.  
+- Per-experiment details: from **Run Entry**, click **Open execution details** to see each node’s inputs/outputs. 
   :contentReference[oaicite:7]{index=7}
 
 ![execution_details](./../../../assets/images/arksuite_execution_details.png)

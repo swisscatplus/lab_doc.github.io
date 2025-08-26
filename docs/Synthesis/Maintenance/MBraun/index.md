@@ -1,17 +1,10 @@
----
-title: MBraun
-layout: home
-parent: Maintenance
-grand_parent: Synthesis
----
-
 # How to Start the Regeneration – MBraun
 
 **Attention!** Before each regeneration of the anti-O2 and H2O catalyst, ensure that the **cooling water circulation is active**.  
 The **green light** for the Chemspeed SP (circuit 2) and ISYNTH CatScreen (circuit 3) must be lit on the wall box.  
 
 <!-- Image: Cooling water circulation indicator -->
-![Cooling Water Circulation](./../../../assets/images/mbraun_cooling.png)
+![Cooling Water Circulation](./../../../../assets/images/mbraun_cooling.png)
 
 ---
 
@@ -22,24 +15,18 @@ Watch the following YouTube video for catalyst regeneration:
 
 ---
 
-## Pressure Gauge
-
-The pressure gauge to use is located **in the white cabinet in the hallway**.  
-
-<!-- Image: Pressure gauge -->
-![Pressure Gauge](./../../../assets/images/mbraun_gauge1.png)
-![Pressure Gauge Close](./../../../assets/images/mbraun_gauge2.png)
-
----
 
 ## Gas Cylinder Connection
 
-The gas cylinder must be connected at the following location:  
+The gas cylinder must be connected with the pressure regulator at the following location:  
 **Catalyst regeneration gas in the Glove Box (Formier gas 95% N₂ + 5% H₂)** – ARCAL F5 Smartop 50L 200 bar cylinder.  
 
-<!-- Image: Gas cylinder connection -->
-![Gas Cylinder](./../../../assets/images/mbraun_gas_cylinder.png)
 
+<!-- Image: Gas cylinder connection -->
+![Pressure Gauge](./../../../../assets/images/mbraun_gauge.png)
+![Pressure Gauge](./../../../../assets/images/mbraun_connection.png)
+
+(The pressure gauge to use is located **in the white cabinet in the hallway**)
 ---
 
 ## End of Regeneration
@@ -47,7 +34,7 @@ The gas cylinder must be connected at the following location:
 At the end of the regeneration process, empty the container filled with water.  
 
 <!-- Image: Water container -->
-![Water Container](./../../../assets/images/mbraun_water_container.png)
+![Water Container](./../../../../assets/images/mbraun_water_container.png)
 
 ---
 
@@ -79,25 +66,26 @@ If the reactor has already been regenerated, proceed. Otherwise, perform regener
 **CAUTION:** Always remove the O₂ sensor and store it in its sealed case (white cabinet) to prevent deterioration of the capsule.  
 
 ---
+# Sensors
 
-## Oxygen (O₂) Sensor
+<!-- Image: O2 sensor housing -->
+![O₂ Sensor Housing](./../../../../assets/images/mbraun_sensors.png)
+
+## O₂ Sensor
 
 - Location on the MBraun glovebox.  
 - Position of the waterproof housing in the probe box.  
 - White capsule inside the O₂ probe.  
 
-<!-- Image: O2 sensor location -->
-![O₂ Sensor Location](./../../../assets/images/mbraun_o2sensor1.png)
 
-<!-- Image: O2 sensor housing -->
-![O₂ Sensor Housing](./../../../assets/images/mbraun_o2sensor2.png)
+
 
 <!-- Image: O2 probe capsule -->
-![O₂ Capsule](./../../../assets/images/mbraun_o2capsule.png)
+![O₂ Capsule](./../../../../assets/images/mbraun_o2capsule.png)
 
 ---
 
-# Cleaning the H₂O Analyzer
+# Cleaning the H₂O Sensor
 
 See the following YouTube video for instructions:  
 [▶ Cleaning the MBraun H₂O Analyzer](https://www.youtube.com/watch?v=wHVVfeNDNkA)
@@ -107,23 +95,23 @@ See the following YouTube video for instructions:
 # Glove Substitution
 
 Refer to the following document:  
-[Glove Substitution PDF](./../../../assets/docs/2609255-EN_Gloveport_oval-long_V5.1_240813.pdf)
+[Glove Substitution PDF](./../../../assets/pdf/2609255-EN_Gloveport_oval-long_V5.1_240813.pdf)
 
 ---
 
 # Oil Change for Vacuum Pump
 
 Follow the procedure in the video:  
-[▶ Vacuum Pump Oil Change – YouTube](https://youtu.be/V1sBv10YBhc)
+[▶ Vacuum Pump Oil Change](https://shop.mbraun.de/ENU/26062/Item.aspx?ItemNo=1510801)
 
 Purchase oil from MBraun:  
 
 <!-- Image: Oil for vacuum pump -->
-![Vacuum Pump Oil](./../../../assets/images/mbraun_oil.png)
+![Vacuum Pump Oil](https://www.youtube.com/watch?v=WrWLRE6FoWI)
 
 When changing the oil, also replace the filter (purchase from MBraun):  
 
 <!-- Image: Oil filter -->
-![Vacuum Pump Filter](./../../../assets/images/mbraun_filter.png)
+![Vacuum Pump Filter](https://shop.mbraun.de/ENU/24142/1513402_Filter_element_Oil_mist_filter.html?FromNo=23323)
 
 ---

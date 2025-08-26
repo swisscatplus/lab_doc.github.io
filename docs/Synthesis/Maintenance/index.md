@@ -1,6 +1,6 @@
 ---
 title: Maintenance
-layout: default
+layout: home
 parent: Synthesis
 has_children: true
 ---

@@ -1,9 +1,3 @@
----
-title: Chemspeed
-layout: home
-parent: Maintenance
-grand_parent: Synthesis
----
 # Emptying Chemspeed 17-Liter Metal Solvent Bottles
 
 This procedure applies to the **Chemspeed Swing SP** and **CatScreen** metal solvent **waste** bottles.

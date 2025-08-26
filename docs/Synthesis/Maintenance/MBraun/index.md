@@ -1,4 +1,3 @@
-
 # How to Start the Regeneration – MBraun
 
 **Attention!** Before each regeneration of the anti-O2 and H2O catalyst, ensure that the **cooling water circulation is active**.  

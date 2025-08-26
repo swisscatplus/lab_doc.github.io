@@ -1,6 +1,6 @@
 ---
-title: Instrument Maintenance
-layout: home
+title: Maintenance
+layout: default
 parent: Synthesis
 has_children: true
 ---

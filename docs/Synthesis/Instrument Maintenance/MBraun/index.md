@@ -1,7 +1,7 @@
 ---
 title: MBraun
 layout: home
-parent: Instrument Maintenance
+parent: Maintenance
 ---
 
 # How to Start the Regeneration – MBraun

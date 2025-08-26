@@ -1,7 +1,7 @@
 ---
 title: Chemspeed
 layout: home
-parent: Instrument Maintenance
+parent: Maintenance
 ---
 # Emptying Chemspeed 17-Liter Metal Solvent Bottles
 

@@ -2,7 +2,6 @@
 title: Maintenance
 layout: home
 parent: Synthesis
-has_children: true
 ---
 
 # Maintenance & Guides – MBraun & Chemspeed

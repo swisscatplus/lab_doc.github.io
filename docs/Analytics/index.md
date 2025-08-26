@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-The analytical platform of the laboratory includes multiples instruments and is devided into 3 parts:
+# The analytical platform of the laboratory includes multiples instruments and is devided into 3 parts:
 
 1. **Sreening step**
 - 2 Analytical HPLC - DAD - MS (SQ) - Fraction collector/ELSD
@@ -22,12 +22,18 @@ The analytical platform of the laboratory includes multiples instruments and is 
 - 1 NMR 300MHz
 - 1 SFC - DAD - IM - QTOF
 
-All the machine are from Agilent, except NMR and FTIR are purchase from Brucker.
+All the machine are bought from Agilent, except NMR and FTIR are purchase from Brucker.
 The series and models of all machines are found in the link below
 ........................
 Insert an image here of analytical platform.
 
-The analytical platform is used as a service for different groups.
+The analytical platform is used as a analytical service for different synthesis collaborator groups, 
+external clients. Another objective is to develop a fully automnatic platform, hardware also 
+software. Therefore, many projects are in progress. See more in automation.
 
+## General analytical workflow
+The general analytical workflow is found below.....
+Basically, the sample will be transferred by a Edy mobile from synthesis platform to Screening part.
+All the samples 
 
 Instruments have different types of control. Their IT control is depicted in the IT section.

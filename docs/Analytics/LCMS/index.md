@@ -4,4 +4,3 @@ layout: default
 parent: Analytics
 ---
 
-Bravo

@@ -135,7 +135,7 @@ To improve **reproducibility and accuracy**, different powder types have been **
 
 ---
 
-## GDU-V / GDU-L – Volumetric & Liquid Dosing
+## GDU-V – Volumetric & Liquid Dosing
 
 **Principle:**  
 Volumetric displacement (syringe/piston). Optional balance feedback can be used to correct for density or temperature effects when needed.

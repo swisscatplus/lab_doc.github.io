@@ -11,7 +11,7 @@ This procedure describes the use of **H₂ up to 80 bar** on the **CatScreen** a
 
 To access the guide on how to use the **Gas Line**, click the button below:
 
-<span class="fs-2">[Gas Line Guide](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation){: .btn .btn-purple }</span>
+<span class="fs-2">[Gas Line Guide](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation/Gas%Line){: .btn .btn-purple }</span>
 
 ---
 

@@ -126,4 +126,4 @@ Substrate A (powder), Substrate B (oil), Catalyst (5 mol%), Additive (10 mol%, i
 
 ### Consultation
 
-If you would like to discuss further about how to set up your experiments on the SwissCAT+ automation platform, do not hesitate to contact [our team](/docs/Organisation/) for a consultation.
+If you would like to discuss further about how to set up your experiments on the SwissCAT+ automation platform, do not hesitate to contact [our team](https://www.epfl.ch/research/facilities/swisscat/team/) for a consultation.

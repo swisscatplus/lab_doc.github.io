@@ -141,6 +141,7 @@ Exceptionally, SFC - IM - QTOF is controled by MassHunter
 
 **Automation and tools:**
     - Between SFC and HPLC, there is a 6-axe robot to transfer the sample. See more in Automation part.
+
 **Process:**
     - Install/check column, solvent bottle level
     - Turn on all modules. Wait until it is ready (green color for each module)
@@ -152,6 +153,7 @@ Exceptionally, SFC - IM - QTOF is controled by MassHunter
     - Method running in acquisition mode. The column screening is necessary to find out the best column for chiral separation.
     - Data collection and treatment.
     - Wash the column following producer method.
+s
   **Outcome:**
     - Depending on screened molecules, there is DAD (UV-absorption sample), ELSD (non-volatile sample), and MS signal (ionizable sample).
     - All the acquisition method details can be found in acquisition setup.
@@ -159,10 +161,11 @@ Exceptionally, SFC - IM - QTOF is controled by MassHunter
     - Calibration curve can also be done by Openlab.
     - To set a method for treatment data, going to processing method to setup. This method can be
       be saved and applied for all sequences or other sequences.
+
 **3. GC - MS**
 * Image to insert here 
 * Valve schema
-* 
+
 **Software:** OpenLab CDS
 
 **Purpose:** to screen all volatile and possibly semi-volatile samples without DAD signal from HPLC screen.

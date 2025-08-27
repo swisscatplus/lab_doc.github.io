@@ -143,6 +143,10 @@ Volumetric displacement (syringe/piston). Optional balance feedback can be used 
 - Precision: **±1–2%**.
 - Volume range: **10 µL → several mL**.
 
+Automation faces challenges with **powder dispensing** due to varying consistencies.  
+To improve **reproducibility and accuracy**, different powder types have been **classified**, with specific **GDU-PFD parameters** defined for each category.
+
+<span class="fs-2">[GDU-Pfd Parameters](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation){: .btn .btn-purple }</span>
 ---
 
 ## 4. PD Reactors and PD Module (240 mL)

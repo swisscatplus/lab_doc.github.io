@@ -240,6 +240,7 @@ In general,
     - Calibration curve can also be done by Openlab.
     - To set a method for treatment data, going to processing method to setup. This method can be
       be saved and applied for all sequences or other sequences.
+....................................
 
 ## Sample preparation steps
 1. Bravo

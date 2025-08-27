@@ -1,6 +1,5 @@
 ---
-title: LCMS
+title: Algorithm
 layout: default
 parent: Analytics
 ---
-

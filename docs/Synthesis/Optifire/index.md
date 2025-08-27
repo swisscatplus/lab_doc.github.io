@@ -43,6 +43,6 @@ All modules are interconnected to perform **automated workflows** for **reaction
 
 To access the full **OptiFire documentation**, click the button below:
 
-<span class="fs-2">[Optifire Documentation](C:\Users\dileone\Desktop\PROJECTS\Chemspeed IPC - share\Documentation\SwissCat documentation\Optifire){: .btn .btn-purple }</span>
+<span class="fs-2">[Optifire Documentation](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation/Optifire){: .btn .btn-purple }</span>
 
 ---

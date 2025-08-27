@@ -1,5 +1,5 @@
 ---
-title: Algorithm
+title: Software
 layout: default
 parent: Analytics
 ---

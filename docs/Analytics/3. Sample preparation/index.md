@@ -1,5 +1,5 @@
 ---
-title: Bravo
+title: 3. Sample preparation
 layout: default
 parent: Analytics
 ---

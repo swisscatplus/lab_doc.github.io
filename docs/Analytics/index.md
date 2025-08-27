@@ -28,9 +28,7 @@ The series and models of all machines are found in the link below
 ........................
 Insert an image here of analytical platform.
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
+
 The analytical platform is used as a analytical service for different synthesis collaborator groups, 
 external clients. Another objective is to develop a fully automnatic platform, hardware also 
 software. Therefore, many projects are in progress. See more in automation.
@@ -44,8 +42,7 @@ The general analytical workflow is found below.....
 - Purified by preparative LC, collected and characterized by NMR, FT-IR, UV and SFC-IM-QTOF.
 - If there is chiral compound, collect from HPLC and transfer to SFC for enantiomer excess calculation.
 
-=======
->>>>>>> Stashed changes
+
 The analytical platform is used as a service for analyzing synthesized samples 
 from SwissCat+, EPFL collaborators and external clients. The second objective is to develop
 a platform automated completely working including both hardware (e.g., machine - machine and 
@@ -54,15 +51,21 @@ data generation, treatment and management).
 
 ### Control and soflware
 Instruments have different types of control. Their IT control is depicted in the IT section.
-In general, 
+In general, OpenLab CDS is used for all chromatography machines (2 HPLC, 1 GC, SFC - MS (SQ)), 2 semi prep-LC),
+Exceptionally, SFC - IM - QTOF is controled by MassHunter
 
-#### Screening steps
+
 **Purpose**: to screen and detect a wide range of compound as much as possible. 300 samples/day
-1. Analytical HPLC - DAD - MS (SQ) - Fraction collector/ELSD
+
+**1. Analytical HPLC - DAD - MS (SQ) - Fraction collector/ELSD**
+
 * Image to insert here (HPLC)
 * Valve schema
+
 **Software:** OpenLab CDS
+
 **Purpose:** to screen all UV-absorption samples. For the non-UV-absorption compound, they must be non-volatile or possibly semi-volatile.
+
 **Design:** 8 modules. They can be controlled and modified in method or directly in 
       instrument status screen.
     - Auto-sampler: sample injection, the loop is 120uL.
@@ -82,10 +85,13 @@ In general,
   ELSD or fraction collector. If there is a chiral compound, fraction collector (position 6) 
   will be chosen to collect the sample into a metal tray of 96-well with 1.2mL insert. If not, 
   ELSD is chosen (position 2).
+
 **Gas line**
     - ..............
+
 **Automation and tools:**
     - 2 HPLC are connected together by a 6-axe robot. See more in Automation part.
+
 **Process:**
     - Install/check column, solvent bottle level
     - Turn on all modules. Wait until it is ready (green color for each module)
@@ -94,6 +100,7 @@ In general,
     - Method running in acquisition mode. Run 1-2 blanks before samples
     - Data collection and treatment.
     - Wash the column following producer method.
+
 **Outcome:**
     - Depending on screened molecules, there is DAD (UV-absorption sample), 
       ELSD (non-volatile sample), and MS signal (ionizable sample).
@@ -105,11 +112,14 @@ In general,
     - To set a method for treatment data, going to processing method to setup. This method can be
       be saved and applied for all sequences or other sequences.
 
-2. SFC - DAD - MS (SQ) - ELSD
+**2. SFC - DAD - MS (SQ) - ELSD**
 * Image to insert here (HPLC)
 * Valve schema
+
 **Software:** OpenLab CDS
+
 **Purpose:** to separate enantiomers with chiral columns for enantiomer calculation.
+
 **Design:** 7 modules. They can be controlled and modified in method or directly in 
       instrument status screen.
     - Auto-sampler: sample injection, there is no loop here.
@@ -125,8 +135,10 @@ In general,
   The split ratio for instant is: 80% for DAD and 20% for MS. The ratio can be changed by 
   changing the capillary diameter and length. The longer and smaller capillary will decrease
   the flow.
+
 **Gas line:**
     - ..............
+
 **Automation and tools:**
     - Between SFC and HPLC, there is a 6-axe robot to transfer the sample. See more in Automation part.
 **Process:**
@@ -147,11 +159,14 @@ In general,
     - Calibration curve can also be done by Openlab.
     - To set a method for treatment data, going to processing method to setup. This method can be
       be saved and applied for all sequences or other sequences.
-3. GC - MS
+**3. GC - MS**
 * Image to insert here 
 * Valve schema
+* 
 **Software:** OpenLab CDS
+
 **Purpose:** to screen all volatile and possibly semi-volatile samples without DAD signal from HPLC screen.
+
 **Design:** 7 modules. They can be controlled and modified in method.
 ## Characterization steps
 **Purpose**: to characterize in many dimension and give the information about new/unknow molecule as much as possible.

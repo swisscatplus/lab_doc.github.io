@@ -1,5 +1,5 @@
 ---
-title: Instrument maintenance
+title: Trouble shooting
 layout: default
 parent: Analytics
 ---

@@ -1,5 +1,5 @@
 ---
-title: Algorithm
+title: Projects
 layout: default
 parent: Analytics
 ---

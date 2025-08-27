@@ -137,7 +137,7 @@ Exceptionally, SFC - IM - QTOF is controled by MassHunter
   the flow.
 
 **Gas line:**
-    - ..............
+    - .........................
 
 **Automation and tools:**
     - Between SFC and HPLC, there is a 6-axe robot to transfer the sample. See more in Automation part.

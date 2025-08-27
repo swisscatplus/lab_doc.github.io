@@ -10,9 +10,9 @@ Put a picture of them
 
 **Purpose:** To prepare samples coming from the synthesis part to inject them in the analytical machines.
 
-Bravo 1 is focused on microplates changements by aspiration steps, on agitation and on dilutions with different solvents (D2 or not).
+- Bravo 1 is focused on microplates changements by aspiration steps, on agitation and on dilutions with different solvents (D2 or not).
 
-Bravo 2 is focused on the SPE part (5uL and 25uL cartridges) for volatiles molecules.
+- Bravo 2 is focused on the SPE part (5uL and 25uL cartridges) for volatiles molecules.
 
 They work with the VWorks software
 

@@ -4,6 +4,7 @@ layout: default
 parent: Synthesis
 ---
 
+
 # OptiFire – Integrated Kinetics Platform
 
 **OptiFire** is a fully integrated system combining:  

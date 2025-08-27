@@ -131,7 +131,7 @@ Two-stage gravimetric dosing:
 Automation faces challenges with **powder dispensing** due to varying consistencies.  
 To improve **reproducibility and accuracy**, different powder types have been **classified**, with specific **GDU-PFD parameters** defined for each category.
 
-<span class="fs-2">[GDU-Pfd Parameters](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation/GDU-Pfd%Parameters){: .btn .btn-purple }</span>
+<span class="fs-2">[GDU-Pfd Parameters](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation/GDU-Pfd%20Parameters){: .btn .btn-purple }</span>
 
 ---
 

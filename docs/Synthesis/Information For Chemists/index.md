@@ -5,142 +5,125 @@ nav_order: 1
 parent: Synthesis
 ---
 
-<img src="/assets/images/logo.png" alt="SwissCAT+ Logo" width="20%">
-
 # Information for Chemists
-The following is written for the general synthetic chemist who is interested in using SwissCAT+ for reaction screening and optimisation.
 
-### Synthesis capabilities
+This page is written for the **synthetic chemist** interested in using **SwissCAT+** for reaction screening and optimisation.  
+It outlines synthesis capabilities, chemical library, limitations, analytical methods, and how to translate human procedures into automation workflows.
 
-**Small scale reactions for high-throughput screening**
-- 48 or 96 well plates (up to 2 mL or 1 mL per reaction vial)
+---
+
+## Synthesis Capabilities
+
+### Small-scale reactions (HTE)
+- 48 or 96 well plates (2 mL or 1 mL vials)
 - Shaking or magnetic stirring
 - Temperature control (–20 °C to +150 °C)
-- Inert atmosphere (N<sub>2</sub> or Ar)
+- Inert atmosphere (N₂ or Ar)
 
-**Large scale reactions for optimisation and kinetics**
-- Up to 3 simultaneous reactions of max. volume 240 mL
+### Large-scale reactions (optimisation & kinetics)
+- Up to 3 simultaneous reactions (max 240 mL each)
 - Stirring rod
 - Temperature control (–20 °C to +150 °C)
-- Inert atmosphere (N<sub>2</sub> or Ar)
+- Inert atmosphere (N₂ or Ar)
 - Aliquot transfer to benchtop NMR
 - Infrared probes
 
-**Reactive gases (small and large scale)**
-- Acetylene (max 5 bar)
-- CO (max 5 bar)
-- CO<sub>2</sub> (max 5 bar)
-- H<sub>2</sub> (max 80 bar)
-- O<sub>2</sub> (max 5 bar)
+### Reactive gases
+- Acetylene, CO, CO₂, O₂ (≤ 5 bar)
+- H₂ (≤ 80 bar)
 
-**Transfer and manipulation**
-- Dispensing powders gravimetrically
-- Dispensing volatile liquids and stock solutions volumetrically
-- Dispensing viscous liquids gravimetrically
+### Transfer & manipulation
+- Gravimetric powder dispensing
+- Volumetric dispensing of volatile liquids and stock solutions
+- Gravimetric dispensing of viscous liquids
 - Silica gel filtration
-- Evaporating small volumes (< 2mL) of solvent
+- Small-scale evaporation (< 2 mL solvent)
 
-For more technical information of the dispensing tools and reactors, please see [Automation Tools](/docs/Synthesis/Automation%20Tools/).  
+---
 
-### Chemical library
+## Chemical Library
 
-We have a collection of common reagents and an expanding library of catalysts and ligands. For example, we have **40+ commercial chiral phosphoric acids and phosphoramides** that can be screened on demand in a variety of synthetic applications. 
+- Collection of common reagents.  
+- Expanding library of catalysts & ligands.  
+- 40+ commercial **chiral phosphoric acids and phosphoramides** available for screening.  
 
-### Automation limitations in synthesis
+---
 
-**Volatile solvents and reagents**
+## Automation Limitations in Synthesis
 
-Limitation:
-- The 48/96 well plates must be fully open while solids and liquids are being dispensed into it. During this period, volatile liquids in the reaction vials can evaporate.
-- Once stock vials have been aspirated from with a needle, the pierced septa can leak volatile liquids, leading to increase in concentrations over time if left for long periods (> 24 h).
+### Volatile solvents & reagents
+- Limitation: open wells during dispensing → evaporation.  
+- Compromise: add volatile liquids just before sealing; use substitutes; prefer volumetric transfer.  
 
-Compromise:
-- Add volatile liquids just before sealing the 48/96 well plates.
-- Use less volatile substitutes.
-- Favour the use of volumetric transfer (by needle from closed vial) rather than gravimetric transfer (from open vial).
+### Reaction workup
+- Limitation: biphasic extractions not possible.  
+- Compromise: use miscible solvents; filtration only.  
 
-**Reaction workup**
+### Large-scale evaporation
+- Limitation: > 2 mL not feasible in high-throughput.  
+- Compromise: decrease scale & increase concentration.  
 
-Limitation:
-- The platform is not capable of performing biphasic extractions.
+### Large-scale purification
+- Limitation: purification not feasible at scale.  
+- Compromise: silica plug + HPLC/GC analysis; preparative HPLC for isolation if required.  
 
-Compromise:
-- Use miscible solvents only.
-- Use filtration to remove unwanted precipitates.
+---
 
-**Large-scale evaporation**
+## Automated Analysis
 
-Limitation:
-- Evaporating large quantities of solvent (> 2 mL) cannot be done feasibly on our workstation in a high-throughput context.
+Preferred: **HPLC, GC, SFC**.  
+- Quantitative NMR discouraged (requires complex prep).  
+- Chromatographic purification for weighing discouraged.  
 
-Compromise:
-- Decrease scale and increase concentration of reactions.
+### Detection methods
+- **DAD (HPLC/SFC):** requires chromophore; analogues comparable.  
+- **ELSD (HPLC/SFC):** requires sufficient MW; analogues comparable.  
+- **FID (GC):** analogues comparable by MW.  
 
-**Large-scale purification**
+### Internal Standards
+- Improves accuracy; calibration before screening.  
+- Add internal standard immediately after reaction.  
+- Preferred over external standards (avoids evaporation errors).  
 
-Limitation:
-- Purifying large quantities of compound cannot be done feasibly in high throughput.
+A good internal standard:  
+- Similar chemical properties to product.  
+- Inert to conditions and analysis.  
+- High purity, easy to source.  
+- Easy to quantify.
 
-Compromise:
-- Use silica filtration only for the removal of insoluble impurities. Then, use robust analysis techniques of crude reaction mixtures such as HPLC or GC to determine yield.
-- If necessary to isolate pure components for analysis, use fraction collection from preparatory HPLC or analytical HPLC.
+### Large product scope
+- Full calibration impractical.  
+- Approximate quantification using **analogous calibration compound** acceptable.  
 
-### Automated analysis
+---
 
-The chromatographic techniques (HPLC, GC and SFC) are preferred for quantification of organic compounds. While humans routinely use quantitative NMR with internal standard, this technique cannot be easily applied in an automation context due to the extra manipulations of the sample required (evaporation, addition of deuterated solvent, homogenisation and transfer to NMR sample tube). Likewise, chromatographic purification for the sole purpose of determining product yield by weight is discouraged on our platform for similar reasons.
+## Translating Human Procedures to Automation
 
-**Detection methods for quantification**
-- **DAD** (HPLC/SFC). Requires a chromophore for good signal response. Analagous compounds with the same chromophore give approximately the same signal intensity.
-- **ELSD** (HPLC/SFC). Requires a high enough molecular weight for good signal response. Analogous compounds with the same molecular weight give approximately the same signal intensity.
-- **FID** (GC). Analogous compounds with the same molecular weight give approximately the same signal intensity.
+**Example reaction (homogeneous catalysis):**  
+Substrate A (powder), Substrate B (oil), Catalyst (5 mol%), Additive (10 mol%, insoluble powder) in dry solvent, stirred at 60 °C under N₂ for 16 h. Workup by evaporation + column chromatography.
 
-**Internal standard**
-To improve accuracy in quantification, we would typically use an internal standard, meaning that before screening, calibration with internal standard would be done at least once. Then, after the heating/stirring of a reaction is finished, the internal standard would be immediately added.
+**Automated workflow equivalent:**  
+1. Prepare stock solutions of A, B, Catalyst in DCM.  
+2. Dispense solutions volumetrically into vials; evaporate DCM.  
+3. Add insoluble additive gravimetrically.  
+4. Dispense solvents into vials.  
+5. Seal plate → shake with heating.  
+6. Cool & open plate.  
+7. Add internal standard (solution) → shake to homogenise.  
+8. Filter with silica plug; wash 3×.  
+9. Collect filtrate, dilute to calibration range.  
+10. Analyse by HPLC for yield.  
+11. Collect fractions; use SFC for ee determination.  
 
-Compared to external standards, use of internal standards is preferred due to the possibility of solvent evaporation and material loss during the filtration process.
+---
 
-A good internal standard:
-- has similar chemical properties to the product.
-- is chemically inert to the reaction conditions and analysis method.
-- is easily sourced in high purity.
-- is easily measured.
+## Disclaimer
 
-**Quantification of a large product scope**
-If many different substrates are being screened in a reaction study, then calibration of each possible product is impractical, especially if they are unreported. Instead, approximate quantification of the products using calibration on a single analogous compound will be done. This approach is valid, provided the detection technique is appropriate and the variation in the products does not significantly influence signal response.
-
-For more detail on our analytical tools, see [Analytics](/docs/Analytics/).  
-
-### Translating a human procedure to an automation workflow
-
-A typical reaction procedure for a homogeneous catalysis reaction may be of the following:
-
-"A suspension of substrate A (1 eq, soluble powder), substrate B (1 eq, oil), catalyst (5 mol%, soluble powder) and additive (10 mol%, insoluble powder) in degassed dry solvent (1 M) was heated to 60 °C with stirring for 16 h under a N<sub>2</sub> atmosphere. The reaction mixture was then concentrated in vacuo and subjected to column chromatography to yield the product as a colourless solid (X% yield, Y% ee)."
-
-Suppose it is desired to screen solvents to optimise yield and enantioselectivity. We might use the following workflow to carry out this screening on our platform:
-
-1. Prepare stock solutions of substrate A, substrate B and catalyst in DCM.
-2. In each reaction vial, dispense volumetrically the required amount of each stock solution. Allow the DCM to fully evaporate on standing.
-3. In each reaction vial, dispense the insoluble additive gravimetrically in powder form.
-4. Dispense the unique solvents into each corresponding vial.
-5. Seal the plate containing the reaction vials and shake with heating for the desired duration.
-6. Cool and open plate.
-7. In each reaction vial, dispense the internal standard as stock solution. Shake to homogenise.
-8. Filter out insoluble impurities with a short silica plug, washing with HPLC-grade solvent three times.
-9. Transfer collected filtrate to HPLC vials, diluting the sample to a concentration within calibration range.
-10. Transfer to HPLC and determine yield from peak area comparison of product and internal standard.
-11. Collect fractions corresponding to product peak and transfer to SFC for enantiomeric excess determination.
-
-### Important Disclaimer
-Yield is, more often than not, a defining factor of success in a chemical transformation. It is very important to acknowledge that there are differences in the way a reaction is set up and analysed on an automation platform compared to a human. 
-
-SwissCAT+ aims to minimise both **systematic** and **random** errors without sacrificing throughput. However, in the context of reaction screening, the minimisation of **random** errors is most important.
-
-We claim that the differences between the human procedure and the automation procedure has largely a **systematic** effect on quantitative results rather than a **random** effect.
-
-In other words, for a series of multiple reaction trials, the **relative differences** between quantitative results (such as yield) is the most reliable interpretation, as opposed to the **absolute values** of the results.
+- Yields differ between manual and automated procedures.  
+- SwissCAT+ minimises random errors, but systematic deviations remain.  
+- **Relative results (e.g., yield trends across experiments) are reliable.**  
+- **Absolute yield values** may differ from conventional manual experiments.  
 
 ### Consultation
 
 If you would like to discuss further about how to set up your experiments on the SwissCAT+ automation platform, do not hesitate to contact [our team](/docs/Organisation/) for a consultation.
-
-Written by Dr. Young Sebastian Ye, 2025.

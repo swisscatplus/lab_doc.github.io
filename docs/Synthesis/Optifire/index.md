@@ -1,6 +1,6 @@
 ---
 title: Optifire
-layout: home
+layout: default
 parent: Synthesis
 ---
 

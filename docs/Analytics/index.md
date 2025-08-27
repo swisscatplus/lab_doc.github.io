@@ -171,6 +171,7 @@ s
 **Purpose:** to screen all volatile and possibly semi-volatile samples without DAD signal from HPLC screen.
 
 **Design:** 7 modules. They can be controlled and modified in method.
+
 ## Characterization steps
 **Purpose**: to characterize in many dimension and give the information about new/unknow molecule as much as possible.
 1. Semi- preparative LC - DAD - MS (SQ) 

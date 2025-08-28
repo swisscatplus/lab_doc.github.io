@@ -34,3 +34,19 @@ It employs **240 mL reactors** for kinetic investigations. Following an initial 
 The reactors are fully integrated with **bench-top NMR** and **FT-IR spectrometers**, enabling real-time **reaction monitoring** and **kinetic analysis**.  
 They can be operated either under **inert atmosphere** or **pressurized with reactive gases**, depending on the experimental requirements.  
 
+---
+
+# Automated Dispensing Strategies
+
+This section presents the **automated dispensing strategies** adopted for the **synthesis platform**.  
+Each component of the system is assigned to **specific tasks** depending on its **functionality** and **precision** (e.g., tolerance ranges for liquid and powder dispensing).
+
+The approach was chosen to:  
+- **Distribute tasks evenly** across the different platform modules.  
+- **Avoid overloading a single unit**, balancing workload among machines.  
+- **Optimize performance and reaction times** by parallelising operations.  
+- Ensure the platform works in a **synchronized and synergistic** manner.  
+
+<span class="fs-2">[Dispensing Strategies Documentation](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation/Dispensing%20Strategy){: .btn .btn-purple }</span>
+
+---

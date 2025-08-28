@@ -13,7 +13,9 @@ parent: Analytics
 4. Under "Status" you've got the main page![img_1.png](../../../assets/images/img_1.png)
 You can turn on and off the modules, see the online signal for each module and the sequences running and pending.
 5. Go on "Method" from the main page (next to "Status")
-6. **Open or create a method**![img_2.png](../../../assets/images/img_2.png)
+6. **Open or create a method**
+
+![img_2.png](../../../assets/images/img_2.png)
 
     6.1 "LC Pump" choose a flow, if you want an isocratic or gradient mode and the time of the analysis 
 
@@ -27,7 +29,17 @@ You can turn on and off the modules, see the online signal for each module and t
 
     6.6 "SQ", "Acquisition" choose positive and/or negative scan mode, mass range depending on your molecule weight and check Fragmentor ramp
 
-    6.7 "SQ", "Source" default parameters: Gas Flow = 13.0 ; Nebulizer = 55.0 ; Capillary Voltage 
+    6.7 "SQ", "Source" default parameters: Gas Flow = 13.0L/min; Nebulizer = 55.0 psi; Capillary Voltage 3500 V; Gas Temperature = 350°C
+
+    6.8 "SQ", "Chromatograms" don't change 
+
+    6.9 "SQ", "Timetable" create it depending on when you want your sample to go through the MS part
+
+    6.10 "SQ", "Autotune" for the maintenance part
+
+    6.11 "ELSD" default parameters: Evaporateur Temperature = 30°C; Nebulizer Temperature = 30°C; Gas Flow Rate = 80Hz
+
+    6.12 "Valve" choose position 1 to 6 if you collect and 1 to 2 if you don't 
 
 7. Send the method to the instrument to condition the column (7th icon 6.)
 8. Go on "Sequence" (next to "Method")

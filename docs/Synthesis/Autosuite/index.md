@@ -7,24 +7,22 @@ parent: Synthesis
 
 # AutoSuite – Basic Guide
 
-A concise introduction to the core areas of **AutoSuite**: the **Editor** (Configuration, Zone, Task), **Simulation**, **Executor**, and **Driver Manager**. Image placeholders are included below—replace them with your actual screenshots.
+A concise introduction to the core areas of **AutoSuite**: the **Editor** (Configuration, Zone, Task), **Simulation**, **Executor**, and **Driver Manager**.
 
 ---
 
 ## 1. Editor
 
 ### Configuration Section
-- Defines the **overall experiment setup** (drivers, parameters, global settings).
-- Serves as the **blueprint** of the experiment prior to execution.
-- Central place to ensure hardware and software options are correctly selected.
+- Defines the **overall platform setup** (tools, peripherals).
+- Ensure hardware and software options are correctly selected.
 
 <!-- Image: AutoSuite Configuration section -->
 ![AutoSuite Configuration](./../../../assets/images/configuration.png)
 
 ### Zone Section
-- Organizes **physical/logical areas** where tasks will run (e.g., instruments, reactors, platform modules).
-- Each **Zone** corresponds to a specific experimental unit and owns its timeline.
-- Helps visualize task allocation across equipment.
+- Organizes **physical/logical areas** where tasks will run (e.g., plates, reactors, container holders).
+- Each **Zone** corresponds to a specific experimental unit.
 
 <!-- Image: AutoSuite Zone section -->
 ![AutoSuite Zones](./../../../assets/images/zone.png)
@@ -40,8 +38,8 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 ---
 
 ## 2. Simulation
-- Runs a **virtual dry-run** of the configured workflow.
-- Detects **errors, missing links, or driver conflicts** before execution.
+- Runs a **simulation** of the workflow. Allows multiple simulations to run in parallel. 
+- Detects **errors, missing zones, or driver conflicts** before execution.
 - Ensures the workflow is **logically consistent** and resources are available.
 
 <!-- Image: AutoSuite Simulation window -->
@@ -52,7 +50,7 @@ A concise introduction to the core areas of **AutoSuite**: the **Editor** (Confi
 ## 3. Executor
 - Handles **real-time execution** of the experiment.
 - Reads configuration and tasks, then **dispatches commands** to hardware.
-- Shows **live progress**, statuses, and feedback from instruments.
+- Shows **live progress**, status, and feedback from instruments.
 
 <!-- Image: AutoSuite Executor interface -->
 ![AutoSuite Executor](./../../../assets/images/executor.png)

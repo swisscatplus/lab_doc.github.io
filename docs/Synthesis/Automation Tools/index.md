@@ -5,12 +5,12 @@ parent: Synthesis
 ---
 # Chemspeed Tools Overview
 
-This page introduces the main **Chemspeed tools** integrated into the **Swing SP**, **CatScreen**, and **AutoPlant** platforms.   
+This page introduces the main **Chemspeed tools** integrated into the **Swing SP**, **CatScreen**, and **AutoPlant** platforms (Swing XL types).   
 Reference videos with demonstrations can be found here: [Chemspeed Example Solutions](https://www.chemspeed.com/example-solutions/)
 
 ## Robotic Arm and Tools
 
-The **Swing XL** platform uses a **4-axis robotic arm** (X, Y, Z, Alpha rotation).  
+The **Swing XL** platforms use a **4-axis robotic arm** (X, Y, Z, Alpha rotation).  
 This arm mounts different **tools** to perform the most common laboratory operations, ensuring precise and automated workflows.
 
 
@@ -19,21 +19,17 @@ This arm mounts different **tools** to perform the most common laboratory operat
 ## 1. 4NH
 
 **Description:**  
-Automated liquid handling tool designed for accurate dispensing of solvents and reagents into vials or Paradox plates.
+Automated liquid handling tool designed for dispensing of solvents and reagents into MTP or Paradox plates.
 
 **Key Features:**  
 - Four independent dispensing heads.  
-- High repeatability and precision across multiple vials.  
-- Supports both small and medium volume dispensing.  
-
-**Applications:**  
-- Parallel synthesis.  
-- Distribution of solvents or stock solutions.  
-- Integration into HTE workflows.  
+- Repeatability and precision across multiple vials.  
+- Supports different volume dispensing, from min. 0.2 ml to several ml (with multiple dispense).  
+- Distribution of solvents or stock solutions.   
 
 **Technical Specifications (typical):**  
-- Dispensing precision: ±1–2%.  
-- Volume range: 100 µL to 25 mL (according to 1, 10 or 25 ml syringe volume).  
+- Dispensing precision: ±2–5%.  
+- Maximum syringe volume: 1, 10 or 25 ml.  
 
 <!-- Image: 4NH dispensing head -->
 ![4NH](./../../../assets/images/4nh.png)

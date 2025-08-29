@@ -12,13 +12,13 @@ parent: Analytics
 3. Select the instrument wanted and click "launch"
 4. Under "Status" you've got the main page
 
-
     4.1 "Instrument Status"
 ![img_3.png](../../../assets/images/img_3.png)
 
     If you click on the bottles the left window open. You can adjust bottles filling. The software tells when a bottle is empty.
 
     4.1.2
+
 ![img_4.png](../../../assets/images/img_4.png)
 
     This is the column part. Right click -> you can "Switch valve..." which is the column position in the machine and turn on and off the heat
@@ -26,7 +26,7 @@ parent: Analytics
     4.1.3 The other one have the same principes of control
 
 
-    4.2 "Run Queue" 
+    4.2
 ![img_5.png](../../../assets/images/img_5.png)
 
     4.2.1 The square allows to stop a running sequence

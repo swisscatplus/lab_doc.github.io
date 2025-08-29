@@ -97,7 +97,7 @@ parent: Analytics
 
     9.9 "Sample name" name it as you want 
 
-    9.10 "Frac. start location" = next location except you're doing something special 
+    9.10 "Frac. start location" = "next location" except you're doing something special 
 
     9.11 "Label" don't touch 
 

@@ -19,19 +19,19 @@ It outlines what **SwissCAT+** can and can't do, and how to translate human proc
 - 48 or 96 well plates (2 mL or 1 mL vials)
 - Shaking or magnetic stirring
 - Temperature control (–20 °C to +150 °C)
-- Inert atmosphere (N₂ or Ar)
+- Inert atmosphere (N₂)
 
 ### Large-scale reactions (optimisation & kinetics)
-- Up to 3 simultaneous reactions (max. 240 mL each)
+- Up to 3 simultaneous reactions (max 240 mL each)
 - Stirring rod
 - Temperature control (–20 °C to +150 °C)
 - Inert atmosphere (N₂ or Ar)
 - Aliquot transfer to benchtop NMR
-- Infrared probes
+- IR probes
 
-### Reactive gases
-- Acetylene, CO, CO₂, O₂ (max. pressure: 5 bar)
-- H₂ (max. pressure: 80 bar)
+### Reactive gases (PD Reactors and Pressure Block)
+- Acetylene, CO, CO₂, O₂ (max pressure: 5 bar)
+- H₂ (max pressure: 80 bar)
 
 ### Transfer & manipulation
 - Gravimetric powder dispensing
@@ -72,8 +72,8 @@ It outlines what **SwissCAT+** can and can't do, and how to translate human proc
 ## Automated Analysis
 
 Preferred quantification methods for high-throughput: **HPLC, GC, SFC**.  
-- Quantitative NMR discouraged, due to extra complexity in automation steps (e.g. evaporation, addition of deuterated solvent, homogenisation, transfer to NMR sample tube).  
-- Yield determination by weight after batch purification discouraged for similar reasons.  
+- Quantitative NMR (automated sample preparation: evaporation, addition of deuterated solvent, homogenisation, transfer to NMR sample tube). Only for characterization after preparatory HPLC.
+- Yield determination by weight after batch purification.  
 
 ### Detection methods
 - **DAD (HPLC/SFC):** Requires **chromophore** for good signal response. Analagous compounds with same chromophore give approximately the same signal intensity.
@@ -81,7 +81,7 @@ Preferred quantification methods for high-throughput: **HPLC, GC, SFC**.
 - **FID (GC):** Generally very flexible but limited by **volatility** of compound for GC elution. Analogous compounds with the same MW give approximately the same signal intensity.
 
 ### Internal Standards
-- Use of internal standard improves accuracy in quantification.
+- Improves accuracy in quantification.
 - Calibration with internal standard must be done at least once prior to reaction screening.  
 - The automation workflow would be modified by adding internal standard immediately after the reaction and before filtration.
 - Preferred over external standards (avoids evaporation-related errors).

@@ -6,7 +6,7 @@ parent: Synthesis
 
 # Maintenance & Guides – MBraun & Chemspeed
 
-This section collects the most common **maintenance procedures** and **user guides** for **Chemspeed** platforms and **MBraun** gloveboxes.  
+This section collects the most common **maintenance procedures** and **user guidelines** for **Chemspeed** platforms and **MBraun** gloveboxes.  
 It provides quick references, best practices, and links to official resources to ensure safe and reliable operation of equipment.
 
 <span class="fs-2">[Mbraun Maintenance](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation/MBraun%20maintenance){: .btn .btn-purple }</span>

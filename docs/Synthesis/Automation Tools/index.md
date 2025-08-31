@@ -50,49 +50,22 @@ High-precision solid dispensing unit capable of handling powders using a **two-s
 - Integrated balance for real-time feedback.  
 - Ensures reproducibility across batches.  
 
-**Applications:**  
-- Catalyst or ligand screening.  
-- Weighing powders for reaction plates.  
-- Automated library preparation.  
 
 **Technical Specifications (typical):**  
-- Dosing accuracy: < 1 mg.  
-- Capacity: from a few mg up to several grams.  
+- Dosing accuracy: ±2–3% (for fine powders);
+- Capacity: each container can contain up to 5 grams of powder. Minimal amount of powder needed for a proper functionality of the tool is 0.5-1 g (depending on the type of powder);
+- Accuracy: **1 mg** (depending on powder type and setup);
+- Optimal working range: **20 mg → 500 mg (higher amount result in a very slow dispense)**.
 
 <!-- Image: GDU PFD unit -->
 ![GDU PFD](./../../../assets/images/gdupfd.png)
 
 **Platforms:** Swing SP, CatScreen, AutoPlant  
-
 ---
 
-## 3. GDU-V (Volumetric Dispensing Unit)
-
-**Description:**  
-Gravimetric dosing module optimized for viscous or liquid reagents where gravimetric control is not required.
-
-**Key Features:**  
-- High throughput liquid dispensing.  
-- Suitable for non-volatile solvents and oils.  
-- Compact and robust design.  
-
-**Applications:**  
-- Addition of solvents or liquid additives.  
-- Screening workflows with repetitive dosing.  
-
-**Technical Specifications (typical):**  
-- Precision: ±2–3%.  
-- Volume range: 10 µL – 5 mL.  
-
-<!-- Image: GDU-V unit -->
-![GDU-V](./../../../assets/images/gduv.png)
-
-**Platforms:** Swing SP, CatScreen, AutoPlant  
-
----
 # GDU – Principle of Operation
 
-The **Gravimetric Dispensing Unit (GDU)** is an automated dosing system that combines a **dispensing mechanism**, an **analytical balance**, and a **real-time control algorithm** to achieve highly accurate additions of solids or liquids.
+The **Gravimetric Dispensing Unit (GDU)** is an automated dosing system that combines a **dispensing mechanism**, an **analytical balance**, and a **real-time control algorithm** to achieve accurate additions of solids or liquids.
 
 <!-- Image: GDU overview -->
 ![GDU Overview](./../../../assets/images/gdu_overview.png)
@@ -101,49 +74,46 @@ The **Gravimetric Dispensing Unit (GDU)** is an automated dosing system that com
 
 ## Core Concept (Closed-Loop Control)
 
-- **Dispensing element** (e.g., screw feeder, vibrating chute, syringe/piston);
 - **Analytical balance** under the receiving vessel for continuous mass read-out;
 - **Controller** that transitions from **rough dosing** to **fine dosing** near the target;
 - Constant logging for **traceability** (target, actual, tolerance, timestamp).
 
----
 
 ## GDU PFD – Powder Fine Dosing
 
 **Principle:**  
 Two-stage gravimetric dosing:
 1. **Rough dosing** – fast bulk transfer to approach the setpoint quickly.  
-2. **Fine dosing** – reduced feed/vibration for milligram-level accuracy, stopping exactly at target mass via balance feedback.
-
-- Stable, repeatable dosing of micro- to gram-scale solids;
-- Minimized operator influence; fully automated cycles;
-
-
-**Typical Performance:**
-- Accuracy: **< 1 mg** (depending on material flowability and setup);
-- Working range: **few mg → several g**.
+2. **Fine dosing** – uses milligram-level accuracy, stopping exactly at target mass via balance feedback.
 
 
 Automation faces challenges with **powder dispensing** due to varying consistencies.  
-To improve **reproducibility and accuracy**, different powder types have been **classified**, with specific **GDU-PFD parameters** defined for each category.
+To improve **reproducibility and accuracy** and avoid machine malfunctioning, different powder types have been **classified** with specific **GDU-PFD parameters** defined for each category.
 
 <span class="fs-2">[GDU-Pfd Parameters](https://github.com/swisscatplus/Chemspeed_Autosuite_programs/tree/main/Documentation/SwissCat%20documentation/GDU-Pfd%20Parameters){: .btn .btn-purple }</span>
 
 ---
 
-## GDU-V – Volumetric & Liquid Dosing
+## 3. GDU-V (Volumetric Dispensing Unit)
 
-**Principle:**  
-Volumetric displacement (syringe/piston). Optional balance feedback can be used to correct for density or temperature effects when needed.
+**Description:**  
+Tool optimized for viscous or liquid reagents. Volumetric dispensing with syringe tips. Optional Gravimetric dispensing for higher precision, with balance feedback to correct density effect.
 
-**Key Points (Liquids/Viscous):**
-- High-throughput liquid additions with consistent volumes.
-- Compatible with a wide viscosity range and many solvents.
-- Integrates with plate/vial workflows for HTE.
+ 
 
-**Typical Performance (indicative):**
-- Precision: **±1–2%**.
-- Volume range: **10 µL → several mL**.
+**Technical Specifications (typical):**  
+- Precision: ±2–3%.  
+- Volume range: 10 µL – 5 mL.  
+- Compatible with a viscosity range and many solvents;
+- Precision: **±1–2%**;
+- Different syringe tips according to amount volume to dispense;
+- Optimal volume range: **15 µL → 5 mL (according to the syringe tip)**.
+
+<!-- Image: GDU-V unit -->
+![GDU-V](./../../../assets/images/gduv.png)
+
+**Platforms:** Swing SP, CatScreen, AutoPlant  
+
 
 
 ---
@@ -151,18 +121,15 @@ Volumetric displacement (syringe/piston). Optional balance feedback can be used 
 ## 4. PD Reactors and PD Module (240 mL)
 
 **Description:**  
-Large-volume **Process Development (PD) reactors** for optimization and kinetic studies. Integrated into the AutoPlant for scale-up.
+Large-volume **Process Development (PD) reactors** for optimization and kinetic studies.
+Allows the reaction scale-up after screening and process optimization. Reactions can be run under inert or reactive gas.
 
 **Key Features:**  
-- Reactor volume: 240 mL.  
-- Parallel operation in up to 3 PD reactors.  
-- Integrated stirring, heating, cooling, and pressurization.  
+- Reactor volume: 240 mL;
+- Parallel operation in up to 3 PD reactors;  
+- Integrated stirring, heating, cooling, and pressurization;  
 - Direct coupling with analytical instruments.  
 
-**Applications:**  
-- Kinetic studies.  
-- Reaction scale-up after screening.  
-- Process optimization under controlled conditions.  
 
 **Technical Specifications (typical):**  
 - Volume range: up to 200 mL effective scale-up.  
@@ -184,15 +151,9 @@ Robotic handling tools for manipulating Paradox plates, vials, or reaction block
 **Key Features:**  
 - MTP gripper for Paradox and MTP plates.  
 - Eccentric gripper for non-standard geometries.  
-- Automated transfer between modules.  
-
-**Applications:**  
-- Plate handling in HTE workflows.  
-- Loading/unloading blocks in synthesis systems.  
-
-**Technical Specifications (typical):**  
-- Handling capacity: up to several kg.  
-- Repeatability: ±0.1 mm positioning.  
+- Automated transfer within and between modules.
+- Handling capacity: up to 1-2 kg.  
+  
 
 <!-- Image: Gripper MTP -->
 ![Gripper](./../../../assets/images/gripper.png)
@@ -205,21 +166,14 @@ Robotic handling tools for manipulating Paradox plates, vials, or reaction block
 
 **Description:**  
 Combined heating and agitation system for reaction plates and vials.  
-Uses **electrical heating (Heether Shinko)** and **oil-based cooling (cryostat)**.
-
-**Key Features:**  
-- Independent control of temperature and shaking speed.  
-- Uniform heating across all wells.  
-- Cooling through integrated cryostat loop.  
-
-**Applications:**  
-- Parallel reactions requiring heating/cooling.  
-- Mixing of viscous solutions.  
-- Thermal control during catalysis experiments.  
+Uses **electrical heating (Heather SHK)** and **oil-based cooling (cryostat)** and the provides real-time feedback during the workflow.
+The control of temperature and shaking/stirring is indipendent.
 
 **Technical Specifications (typical):**  
-- Temperature range: –20 °C to +150 °C.  
-- Shaking speed: 100–800 rpm.  
+- Temperature range: –20 °C to +150 °C. 
+- Uniform heating across wells (max. ±0.5 °C). 
+- Shaking speed: 100–500 rpm (200 rpm preferred to minimize vibrations). 
+- Stirring speed: 100-1000 rpm
 
 
 **Platforms:** Swing SP, CatScreen, AutoPlant  
@@ -232,18 +186,12 @@ Uses **electrical heating (Heether Shinko)** and **oil-based cooling (cryostat)*
 Specialized reactor block for parallel reactions under controlled pressure.  
 Compatible with 48- and 96-well Paradox or MTP plates.
 
-**Key Features:**  
-- Allows gas pressurization of entire reaction plate.  
-- Uniform distribution of pressure.  
-- Safety interlocks for overpressure.  
-
-**Applications:**  
-- High-throughput catalysis under H₂ or other gases.  
-- Screening of homogeneous catalytic reactions.  
-
 **Technical Specifications (typical):**  
-- Pressure: up to 80 bar.  
-- Temperature: ambient to 150 °C (with heating plate).  
+- Allows gas pressurization of entire reaction plate.   
+- Safety interlocks for overpressure.
+- Pressure up to 80 bar for H₂ gas. 
+- Pressure up to 10 bar for inert gas (N₂ and Ar) or other reactive gases (CO, CO₂, acetylene),
+- Temperature range: –20 °C to +150 °C. 
 
 <!-- Image: MTP Pressure Block -->
 ![MTP Pressure Block](./../../../assets/images/pressure_block.png)

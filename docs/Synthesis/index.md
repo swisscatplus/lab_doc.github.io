@@ -21,6 +21,12 @@ They are designed for experiments in **Paradox plates** accommodating **48 to 96
 - [48-position Paradox plate](https://www.analytical-sales.com/product-category/photoredox-parallel-synthesis/aluminum-reaction-blocks/hplc-vials-2ml-12x32mm/hplc-48-position-photoredox-4-bolt/)  
 - [96-position Paradox plate](https://www.analytical-sales.com/product/standard-96-position-photoredox-lightweight-reaction-block-gen-ii/)  
 
+Stock solutions are instead stored in MTP plates. Can alternatively also be used as reaction plates. HPLC plates are used to collect the product at the end of the workflow:
+
+- 11-position MTP plate (20 ml vials)
+- 24-position MTP plate (4 ml vials)
+- 20-position HPLC plate (2 ml vials)
+
 **Purpose:**  
 These systems enable **parallel experiments** on a large number of samples, with the goal of identifying the **optimal reaction parameters and chemicals** to maximize **yield** and **enantiomeric excess (ee)**.  
 All experimental data are collected by the Arksuite software and subsequently integrated into **AI-based predictive models**. This accelerates catalyst discovery by reducing the number of experimental iterations required to identify the most effective catalyst.  

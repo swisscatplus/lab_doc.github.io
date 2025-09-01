@@ -3,13 +3,17 @@ title: 2. Characterization part
 layout: default
 parent: Analytics
 ---
-**Purpose**: to characterize in many dimension and give the information about new/unknow molecule as much as possible.
+**Purpose**: to characterize in many dimension and give the information about new/unknown molecule as much as possible.
 1. Semi- preparative LC - DAD - MS (SQ) 
+
 *Image to insert here*
+
 *Valve schema* 
+
 **Purpose:** to separate and purify the target molecules, normally, they are the new/unknown molecules detected from screening part. 
+$
 **Design:** 7 modules. They can be controlled and modified in method or directly in 
-      instrument status screen.
+instrument status screen.
     - Auto-sampler: sample injection, the loop is ....uL. There is only 2 big sample tray of ... vials and can not 
       be modified by OpenLab.
     - Column chamber: capacity of 4 columns installation.

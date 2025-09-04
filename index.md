@@ -52,10 +52,10 @@ An overview of the laboratory sections is provided below:
 Optimization Section:
 ![Optimization Section](./assets/images/lab1.png)
 
-Discovery Section:
+Synthesis Section:
 ![Discovery Section](./assets/images/lab2.png) 
 
-STORMs Section:
+Discovery Section:
 ![STORMs Section](./assets/images/lab3.png) 
 
 Analysis Section:

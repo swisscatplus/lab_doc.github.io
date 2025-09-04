@@ -35,7 +35,7 @@ The series and models of all machines are found in the link below
 ........................
 
 Insert an image here of analytical platform.
-![Analytical Platform](./../../../assets/images/imqtof.png)
+![Analytical Platform](https://github.com/swisscatplus/lab_doc.github.io/assets/images/imqtof.png)
 
 **Objectives**
 

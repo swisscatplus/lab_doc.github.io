@@ -18,26 +18,33 @@ The analytical platform of the laboratory includes multiples instruments and is 
 - Evaporator
 3. **Characterization step**
 - 1 Semi Preparative HPLC - DAD - MS (SQ)
-- 1 HR - UV
+- 1 Multicells HR - UV
 - 1 FTIR
 - 1 NMR 300MHz
 - 1 SFC - DAD - IM - QTOF
-4. **Kinetic monitoring reaction**
+4. **Autoplant**
 - 1 Semi Preparative HPLC - DAD - MS (SQ) - Fraction collector(FC) open bench
 
 
-All the machines are purchased from Agilent, except NMR and FTIR are obtained from Brucker.
+All the chromatography machines and HR - UV are purchased from Agilent.
+
+NMR and FTIR are obtained from Brucker.
+Evaporator and OMNIFIRE are made by SwissCAT+
+
 The series and models of all machines are found in the link below
 ........................
+
 Insert an image here of analytical platform.
 
 
-The analytical platform is used as a analytical service for different synthesis collaborator groups, 
-external clients. Another objective is to develop a fully automnatic platform, hardware also 
-software. Therefore, many projects are in progress. See more in automation.
+**Objectives**
+
+- Analytical service for SwissCAT+, synthesis collaborator groups in EPFL and external clients. 
+- Develop a fully automnated and flexible analytical platform based on AI development.
 
 ## General analytical workflow
-The general analytical workflow is found below.....
+The general analytical workflow with the challenges is found in photo below:
+
 - Transfer sample by a Edy mobile from synthesis platform to Screening part.
 - Analyze sample by HPLC or GC to response two question:
 - (i) if there is a new molecule?

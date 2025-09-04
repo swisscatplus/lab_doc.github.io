@@ -7,7 +7,7 @@ has_children: true
 
 # Laboratory Automation Overview  
 
-The laboratory is designed with the long-term goal of achieving **full automation**.  
+The scope of SwissCat+ is to develop a **Self Driving Laboratoy**, in order to execute in **full autonomy** experiments in the domain of the **Homogeneous Catalysis**.  
 While most processes are automated, a few tasks remain manual, such as:  
 - Solvent refilling  
 - LC column changes  
@@ -43,8 +43,8 @@ Key gloveboxes include:
   - Prepares 48- or 96-well metallic SBS plates.  
   - Dispenses the correct amount of powder from capsules.  
 
-- **Synthesis Box & Chemspeed Systems**  
-  - Capsules are opened and contents transferred into two **Chemspeed automated synthesis machines** via the Synthbox.  
+- **Synthesis Box & Chemspeed Platforms**  
+  - Capsules are opened and contents transferred into two **Chemspeed automated synthesis platforms** via the Synthbox.  
   - Machines perform automated experiment execution.  
 
 For more details, see [Synthesis](/docs/Automation/Synthesis/).  

@@ -47,6 +47,13 @@ Detailed descriptions of each section are available in their respective document
 
 ## Laboratory Layout  
 
-An overview image of the laboratory is provided below:  
+An overview of the laboratory sections is provided below:  
 
-![](./assets/images/lab.jpg)  
+Optimization Section
+![Optimization Section](./assets/images/lab1.png)  
+Discovery Section
+![Discovery Section](./assets/images/lab2.png) 
+STORMs Section
+![STORMs Section](./assets/images/lab3.png) 
+Analysis Section
+![Analysis Section](./assets/images/lab4.png) 

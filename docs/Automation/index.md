@@ -91,7 +91,7 @@ The following steps illustrate the typical **life cycle of a sample** in the lab
 1. **Entry & Standardization** – Operator introduces chemicals, standardized into vials, and stored.  
 2. **Microsampling** – Powders are aliquoted into capsules and stored.  
 3. **Experiment Preparation** – Capsules are opened and powders recombined into multi-well plates.  
-4. **Synthesis** – Automated synthesis machines run the experiments.  
+4. **Synthesis** – Automated synthesis platforms run the experiments.  
 5. **Transfer** – Finished samples exit through the final airlock.  
 6. **Analysis** – Mobile robots distribute samples across analytical stations. Robotic arms feed instruments.  
 7. **Data Output** – Analytical results are collected and linked back to experiment design.  

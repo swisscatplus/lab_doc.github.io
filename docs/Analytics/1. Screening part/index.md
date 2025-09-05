@@ -3,19 +3,20 @@ title: 1. Screening part
 layout: default
 parent: Analytics
 ---
-**Purpose**: to screen and detect a wide range of compound as much as possible. 300 samples/day
+## Purpose
+- Screening all sample from synthesis with the objective of 300 samples/day.
+- Detect a wide range of compound as much as possible. 
 
-**1. Analytical HPLC - DAD - MS (SQ) - Fraction collector/ELSD**
+## 1. Analytical HPLC - DAD - MS (SQ) - Fraction collector (FC)/ELSD**
 
 * Image to insert here (HPLC)
-* Valve schema
+
 
 **Software:** OpenLab CDS
 
-**Purpose:** to screen all UV-absorption samples. For the non-UV-absorption compound, they must be non-volatile or possibly semi-volatile.
+**Purpose:** to screen all UV and non UV absorption molecules and samples. For the non-UV-absorption compound, they must be non-volatile or possibly semi-volatile.
 
-**Design:** 8 modules. They can be controlled and modified in method or directly in instrument status screen.
-
+**Design:** 8 modules. 
 - Auto-sampler: sample injection, the loop is 120uL.
 
 - Column chamber: capacity of 4 columns installation.
@@ -28,14 +29,12 @@ parent: Analytics
 
 - ELSD (evaporative light scattering detector)
 
-- Fraction collector: 
+- Fraction collector: collect the interesting peak of frament based on time or volume
 
-- Cooling system for fraction collector.
+- Cooling system for fraction collector: can keep the temperature at 5 C in fraction collector
+- Spliting valve : Valve schema and instructions are found in the link below:
+.......
 
-  There is also a tray to put solvent bottles. The outgoing fluid from column will be split passively to DAD and MS by a T-connector. The split ratio for instant is: 80% for DAD and 20% for MS. The ratio can be changed by 
-  changing the capillary diameter and length. The longer and smaller capillary will decrease the flow. 
-  Then, the flow from DAD will go to a valve. This valve allows us to choose which module is used: ELSD or fraction collector. If there is a chiral compound, fraction collector (position 6) will be chosen to collect the sample into a metal tray of 96-well with 1.2mL insert. If not, 
-  ELSD is chosen (position 2).
 
 **Gas line**
     - ..............
@@ -45,13 +44,7 @@ parent: Analytics
 - 2 HPLC are connected together by a 6-axe robot. See more in Automation part.
 
 **Process:**
-    - Install/check column, solvent bottle level
-    - Turn on all modules. Wait until it is ready (green color for each module)
-    - Condition the column with acquisition method condition for at least 20 minutes.
-    - Samples are put in auto-sampler by 6-axes.
-    - Method running in acquisition mode. Run 1-2 blanks before samples
-    - Data collection and treatment.
-    - Wash the column following producer method.
+- The analytical process are found in the link below:.......
 
 **Outcome:**
 - Depending on screened molecules, there is DAD (UV-absorption sample), ELSD (non-volatile sample), and MS signal (ionizable sample).

@@ -3,12 +3,10 @@ title: 2. Characterization part
 layout: default
 parent: Analytics
 ---
-**Purpose**: to characterize in diverse dimensions and give the information about new/unknown molecule as much as possible.
+## Purpose**: to characterize in diverse dimensions and give the information about new/unknown molecule as much as possible.
 **1. Semi- preparative LC - DAD - MS (SQ)**
 
 *Image to insert here*
-
-*Valve schema* 
 
 **Purpose:** to separate and purify the target molecules, normally, they are the new/unknown molecules detected from screening part. The sample is synthesized second time in high concentration.
 The capacity of semi-prepLC is : ....

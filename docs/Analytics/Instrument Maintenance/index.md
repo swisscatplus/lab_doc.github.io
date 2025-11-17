@@ -4,7 +4,7 @@ layout: default
 parent: Analytics
 ---
 
-# HPLC-DAD-ELSD-FC-MS / HPLC-DAD-MS-Prep / SFC-DAD-MS(iQ) / SFC-DAD-MS(IM-QTOF)
+## HPLC-DAD-ELSD-FC-MS / HPLC-DAD-MS-Prep / SFC-DAD-MS(iQ) / SFC-DAD-MS(IM-QTOF)
 
 Once a week: Washing the SQ with IPA/H2O (50:50) with a special paper for
 
@@ -20,10 +20,10 @@ Once a month: Washing the SQ following these steps
 
 Sometimes need to empty the waste containers
 
-# NMR
+## NMR
 
 Once a week: Filling the magnet with N2 
 
-# BRAVO
+## BRAVO
 
 Check regularly to fill and empty the water reserve

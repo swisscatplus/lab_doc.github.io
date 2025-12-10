@@ -107,10 +107,15 @@ This is the column part. Right click -> you can "Switch valve..." which is the c
 9.12 "Sample prep method" don't touch 
 
 10.![img_2.png](../../../assets/images/save_results.png) at the bottom of the window
+
 11.In "Result path" choose where you want to save the result by clicking on the "..."
+
 12.In "result name" name your result 
+
 13."Save result as" if you select "One result set" you will have to wait for the whole sequence to finish before being able to see the results and for "Separate single injections" you'll have the result after each injection
+
 14.Run the sequ ence by clicking on the green button "Run" at the bottom right
+
 15.You can also do a "Single Sample Analysis" the same way as in "Sequence"
 
 ### VWorks

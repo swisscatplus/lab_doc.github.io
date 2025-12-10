@@ -7,9 +7,13 @@ parent: Analytics
 ### OpenLab 
 
 **Process**
+
 1.Open Control panel app
+
 2.Enter your username and password
+
 3.Select the instrument wanted and click "launch"
+
 4.Under "Status" you've got the main page
 
 4.1 "Instrument Status"

@@ -7,10 +7,10 @@ parent: Analytics
 ### OpenLab 
 
 **Process**
-1. Open Control panel app
-2. Enter your username and password
-3. Select the instrument wanted and click "launch"
-4. Under "Status" you've got the main page
+1.Open Control panel app
+2.Enter your username and password
+3.Select the instrument wanted and click "launch"
+4.Under "Status" you've got the main page
 
 4.1 "Instrument Status"
 ![img_3.png](../../../assets/images/img_3.png)
@@ -44,8 +44,8 @@ This is the column part. Right click -> you can "Switch valve..." which is the c
 4.3 "Online signals" you can choose which module online signal you want to see
 
 
-5. Go on "Method" from the main page (next to "Status")
-6. **Open or create a method**
+5.Go on "Method" from the main page (next to "Status")
+6.**Open or create a method**
 
 ![img_2.png](../../../assets/images/img_2.png)
 
@@ -73,10 +73,9 @@ This is the column part. Right click -> you can "Switch valve..." which is the c
 
 6.12 "Valve" choose position 1 to 6 if you collect and 1 to 2 if you don't 
 
-7. Send the method to the instrument to condition the column during 20-30 min (7th icon 6.)
-8. Go on "Sequence" (next to "Method")
-9. **Open or create a sequence** (same icons as 6.)
-
+7.Send the method to the instrument to condition the column during 20-30 min (7th icon 6.)
+8.Go on "Sequence" (next to "Method")
+9.**Open or create a sequence** (same icons as 6.)
 
 9.1 "Vial" select the position of the vial 
 ![img.png](../../../assets/images/vials_positions.png)
@@ -103,12 +102,12 @@ This is the column part. Right click -> you can "Switch valve..." which is the c
 
 9.12 "Sample prep method" don't touch 
 
-10. ![img_2.png](../../../assets/images/save_results.png) at the bottom of the window
-11. In "Result path" choose where you want to save the result by clicking on the "..."
-11. In "result name" name your result 
-12. "Save result as" if you select "One result set" you will have to wait for the whole sequence to finish before being able to see the results and for "Separate single injections" you'll have the result after each injection
-13. Run the sequence by clicking on the green button "Run" at the bottom right
-14. You can also do a "Single Sample Analysis" the same way as in "Sequence"
+10.![img_2.png](../../../assets/images/save_results.png) at the bottom of the window
+11.In "Result path" choose where you want to save the result by clicking on the "..."
+12.In "result name" name your result 
+13."Save result as" if you select "One result set" you will have to wait for the whole sequence to finish before being able to see the results and for "Separate single injections" you'll have the result after each injection
+14.Run the sequ ence by clicking on the green button "Run" at the bottom right
+15.You can also do a "Single Sample Analysis" the same way as in "Sequence"
 
 ### VWorks
 

@@ -25,7 +25,7 @@ parent: Analytics
 
 * Once a week: Filling the magnet with N2:
 1. Take the Deware to the filling station
-2. Make sure that the outlet pipe is open (on)
+2. Make sure that the outlet part is open (on)
 3. Open the filling station panel and turn on with the key
 4. Connect the filling station pipe to the inlet part of the Deware and open this section (turn on)
 5. Click "start" on panel -> the filling takes approximatively 30min 
@@ -35,7 +35,10 @@ parent: Analytics
 9. Once in front of the NMR, take off the two parts on the edges -> on the right put the plastic pipe and on the left connect the filling pipe
 10. Turn on the filling pipe and close the outlet one
 11. Based on the pressure, turn the handle to regular the flow rate of N2 -> !Do not go further the indicator on the pressure instrument!
-12. When the filling 
+12. When the filling is done turn off the filling pipe and open instantly the outlet part
+13. With the heat gun, melt the ice formed to take off connected stuff and put back the lids on
+14. Go on NMR computer and open Mics Installer app
+15. Make a new entry and fill the gaps
 
 ## BRAVO
 

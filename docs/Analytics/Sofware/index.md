@@ -21,9 +21,9 @@ parent: Analytics
 
 ![img_4.png](../../../assets/images/img_4.png)
 
-    This is the column part. Right click -> you can "Switch valve..." which is the column position in the machine and turn on and off the heat
+This is the column part. Right click -> you can "Switch valve..." which is the column position in the machine and turn on and off the heat
 
-    4.1.3 The other one have the same principes of control
+4.1.3 The other one have the same principes of control
 
 
     4.2

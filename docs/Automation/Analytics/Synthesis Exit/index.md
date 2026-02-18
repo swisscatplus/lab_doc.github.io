@@ -11,9 +11,19 @@ The Universal Robot picks and places the plate from the airlock drawer onto the 
 
 The code for the Universal Robot can be found in the following repository:
 
-<span class="fs-2">[Selection algorithm](https://github.com/swisscatplus/Auto_Analytic_UR){: .btn .btn-purple }</span>
+<span class="fs-2">[Universal Robot Programs](https://github.com/swisscatplus/Auto_Analytic_UR){: .btn .btn-purple }</span>
 
 The UR controller and the Chemspeed control system are connected via I/O signals, allowing both systems to interlock, as they are operated by separate schedulers.
+
+To ensure operator safety, the Universal Robot safety system is connected to a proximity sensor that detects whether the protective door is open. If the door is opened, the robot immediately stops.
+
+# List of Components
+
+- MBraun Airlock Chamber
+- Universal Robot UR5e & Controller
+- Industrial Camera
+- Aluminium Profile & Plexiglas Door with presence sensor
+- Aluminium Profile table
 
 ![](./../../../../assets/images/auto_analytics_synthesisExit.jpg)
 

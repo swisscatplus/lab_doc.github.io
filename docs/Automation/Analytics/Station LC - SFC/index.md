@@ -1,5 +1,5 @@
 ---
-title: HPLC Prep
+title: Station LC - SFC
 layout: default
 parent: Analytics
 grand_parent: Automation

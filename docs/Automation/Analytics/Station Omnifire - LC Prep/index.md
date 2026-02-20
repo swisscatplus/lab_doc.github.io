@@ -1,5 +1,5 @@
 ---
-title: Omnifire
+title: Station Omnifire - LC Prep
 layout: default
 parent: Analytics
 grand_parent: Automation

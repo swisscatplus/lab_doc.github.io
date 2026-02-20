@@ -6,8 +6,10 @@ has_children: true
 ---
 
 
-The analytics Area is composed of 5 Stations. Each Station is composed of Analytical Instruments automatically connected
-by robots. A central Scheduler called the Robot Scheduler is orchestrating the workflows between those devices.
-It mainly consists of moving SBS plate format between the instrument. 
+The Analytics Area is composed of multiple stations. Each station includes analytical instruments, automated devices, 
+or storage shelves. All stations are connected by robots, mainly six-axis collaborative robots. A central scheduler, 
+called the Robot Scheduler, orchestrates the workflows between these devices. Its primary role is to manage the movement 
+of SBS-format plates between the different devices. The stations are also interconnected by 2D drones that move freely 
+along a track installed above the laboratory.
 
 

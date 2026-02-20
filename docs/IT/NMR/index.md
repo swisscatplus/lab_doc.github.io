@@ -1,5 +1,5 @@
 ---
-title: NMR
+title: Station NMR - QTOF
 layout: default
 parent: IT
 ---

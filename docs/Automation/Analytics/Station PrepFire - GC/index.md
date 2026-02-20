@@ -1,5 +1,5 @@
 ---
-title: IM QTOF
+title: Station PrepFire - GC
 layout: default
 parent: Analytics
 grand_parent: Automation
